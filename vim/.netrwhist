@@ -1,4 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =2
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/matt/dotfiles/config'
+let g:netrw_dirhist_4='/home/matt/dotfiles'
+let g:netrw_dirhist_3='/home/matt/dotfiles/config'
 let g:netrw_dirhist_2='/home/matt/.vim'
 let g:netrw_dirhist_1='/home/matt/.config/sway'

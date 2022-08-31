@@ -95,7 +95,7 @@ bindsym XF86MonBrightnessDown exec sudo light -U 10
 # Basics:
 #
     # Start a terminal
-    bindsym $mod+Return exec $term
+    bindsym $mod+t exec $term
 
     # Kill focused window
     bindsym $mod+Shift+q kill
@@ -113,7 +113,7 @@ bindsym XF86MonBrightnessDown exec sudo light -U 10
     # Reload the configuration file
     bindsym $mod+Shift+c reload
     # Lock the screen
-    bindsym $mod+Shift+Return exec $lock
+    bindsym $mod+Return exec $lock
     # Exit sway (logs you out of your Wayland session)
     bindsym $mod+Shift+e exec swaynag -t warning -m 'You pressed the exit shortcut. Do you really want to exit sway? This will end your Wayland session.' -B 'Yes, exit sway' 'swaymsg exit'
 #
