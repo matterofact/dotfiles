@@ -1,6 +1,10 @@
 "set colour scheme
 colorscheme molokai 
 
+"pathogen
+execute pathogen#infect() 
+call pathogen#helptags()
+
 "syntax highlighting
 syntax on
 
@@ -31,4 +35,4 @@ set ignorecase
 " Enable auto completion menu after pressing tab
 " set wildmenu
 
- 
+filetype plugin indent on
