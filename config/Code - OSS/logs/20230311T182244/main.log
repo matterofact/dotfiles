@@ -1,4 +1,0 @@
-2023-03-11 18:22:44.776 [info] update#ctor - updates are disabled as there is no update URL
-2023-03-11 18:22:46.404 [info] Starting extension host with pid 21104 (fork() took 13 ms).
-2023-03-11 18:22:59.955 [info] Extension host with pid 21104 exited with code: 0, signal: null.
-2023-03-11 18:22:59.974 [info] Waiting for extension host with pid 21104 to exit.

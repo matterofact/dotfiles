@@ -1,8 +1,0 @@
-[2022-08-30 21:11:56.684] [sharedprocess] [debug] Writing language packs {}
-[2022-08-30 21:11:56.853] [sharedprocess] [debug] ComputeTargetPlatform: linux-x64
-[2022-08-30 21:11:57.045] [sharedprocess] [info] Starting worker process with pid 2619 (type: fileWatcher, window: 1).
-[2022-08-30 21:11:57.113] [sharedprocess] [debug] Writing language packs {}
-[2022-08-30 21:11:57.482] [sharedprocess] [debug] Terminal profile not validated fish ["fish"]
-[2022-08-30 21:11:57.483] [sharedprocess] [debug] Terminal profile not validated tmux ["tmux"]
-[2022-08-30 21:11:57.485] [sharedprocess] [debug] Terminal profile not validated pwsh ["pwsh"]
-[2022-08-30 21:11:57.485] [sharedprocess] [debug] Validated terminal profiles [{"profileName":"sh","path":"/bin/sh","isAutoDetected":true,"isDefault":false},{"profileName":"bash","path":"/usr/bin/bash","isDefault":false,"isFromPath":true,"icon":{"id":"terminal-bash"}},{"profileName":"git-shell","path":"/usr/bin/git-shell","isAutoDetected":true,"isDefault":false},{"profileName":"zsh","path":"/usr/bin/zsh","isDefault":false,"isFromPath":true},{"profileName":"zsh (2)","path":"/usr/bin/zsh","isAutoDetected":true,"isDefault":false}]
