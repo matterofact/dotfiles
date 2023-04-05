@@ -1,0 +1,18 @@
+2023/01/18-18:52:04.186 10a6 Reusing MANIFEST /home/matt/dotfiles/config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/01/18-18:52:04.186 10a6 Recovering log #22
+2023/01/18-18:52:04.186 10a6 Reusing old log /home/matt/dotfiles/config/discord/Local Storage/leveldb/000022.log 
+2023/01/18-18:54:05.504 119c Level-0 table #25: started
+2023/01/18-18:54:05.520 119c Level-0 table #25: 1330142 bytes OK
+2023/01/18-18:54:05.521 119c Delete type=0 #22
+2023/01/18-19:59:05.505 2cc1 Level-0 table #27: started
+2023/01/18-19:59:05.507 2cc1 Level-0 table #27: 11207 bytes OK
+2023/01/18-19:59:05.508 2cc1 Delete type=0 #24
+2023/01/18-19:59:05.509 2cc1 Compacting 4@0 + 1@1 files
+2023/01/18-19:59:05.529 2cc1 Generated table #28@0: 27 keys, 1326412 bytes
+2023/01/18-19:59:05.529 2cc1 Compacted 4@0 + 1@1 files => 1326412 bytes
+2023/01/18-19:59:05.530 2cc1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/01/18-19:59:05.531 2cc1 Delete type=2 #25
+2023/01/18-19:59:05.531 2cc1 Delete type=2 #16
+2023/01/18-19:59:05.531 2cc1 Delete type=2 #19
+2023/01/18-19:59:05.531 2cc1 Delete type=2 #21
+2023/01/18-19:59:05.531 2cc1 Delete type=2 #27

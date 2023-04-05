@@ -1,0 +1,15 @@
+- 1.1.8
+- _NAME: G305 Lightspeed Wireless Gaming Mouse
+  _absent: [hi-res-scroll, lowres-scroll-mode, hires-smooth-invert, hires-smooth-resolution, hires-scroll-mode, scroll-ratchet, smart-shift, thumb-scroll-invert,
+    thumb-scroll-mode, pointer_speed, speed-change, backlight, backlight-timed, fn-swap, reprogrammable-keys, persistent-remappable-keys, divert-keys, disable-keyboard-keys,
+    crown-smooth, divert-crown, divert-gkeys, m-key-leds, mr-key-led, multiplatform, change-host, gesture2-gestures, gesture2-divert, gesture2-params, sidetone,
+    equalizer]
+  _battery: 4096
+  _modelId: '407400000000'
+  _sensitive: {dpi: false, onboard_profiles: false, report_rate: true}
+  _serial: 69A189F8
+  _unitId: 2F040DEF
+  _wpid: '4074'
+  dpi: 800
+  onboard_profiles: 1
+  report_rate: 1

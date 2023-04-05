@@ -1,0 +1,310 @@
+{
+  "serverVersion": "19.0.0-dev01+nightly.2022.09.18",
+  "setupWizard": false,
+  "locale": "system",
+  "openvr_config": {
+    "universe_id": 2,
+    "headset_serial_number": "1WMGH000XX0000",
+    "headset_tracking_system_name": "oculus",
+    "headset_model_number": "Miramar",
+    "headset_driver_version": "1.55.0",
+    "headset_manufacturer_name": "Oculus",
+    "headset_render_model_name": "generic_hmd",
+    "headset_registered_device_type": "oculus/1WMGH000XX0000",
+    "eye_resolution_width": 1824,
+    "eye_resolution_height": 1920,
+    "target_eye_resolution_width": 1824,
+    "target_eye_resolution_height": 1920,
+    "seconds_from_vsync_to_photons": 0.005,
+    "force_3dof": false,
+    "tracking_ref_only": false,
+    "enable_vive_tracker_proxy": false,
+    "aggressive_keyframe_resend": false,
+    "adapter_index": 0,
+    "codec": 0,
+    "refresh_rate": 90,
+    "use_10bit_encoder": false,
+    "force_sw_encoding": false,
+    "sw_thread_count": 0,
+    "encode_bitrate_mbs": 30,
+    "enable_adaptive_bitrate": true,
+    "bitrate_maximum": 200,
+    "latency_target": 12000,
+    "latency_use_frametime": false,
+    "latency_target_maximum": 0,
+    "latency_target_offset": 0,
+    "latency_threshold": 3000,
+    "bitrate_up_rate": 1,
+    "bitrate_down_rate": 3,
+    "bitrate_light_load_threshold": 0.7,
+    "controllers_tracking_system_name": "oculus",
+    "controllers_manufacturer_name": "Oculus",
+    "controllers_model_number": "Miramar",
+    "render_model_name_left_controller": "oculus_quest2_controller_left",
+    "render_model_name_right_controller": "oculus_quest2_controller_right",
+    "controllers_serial_number": "1WMGH000XX0000_Controller",
+    "controllers_type_left": "oculus_touch",
+    "controllers_type_right": "oculus_touch",
+    "controllers_registered_device_type": "oculus/1WMGH000XX0000_Controller",
+    "controllers_input_profile_path": "{oculus}/input/touch_profile.json",
+    "controllers_mode_idx": 7,
+    "controllers_enabled": true,
+    "position_offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "steamvr_hmd_prediction_multiplier": 1.0,
+    "steamvr_ctrl_prediction_multiplier": 0.0,
+    "linear_velocity_cutoff": 0.01,
+    "angular_velocity_cutoff": 10.0,
+    "position_offset_left": [
+      -0.0065,
+      0.002,
+      -0.051
+    ],
+    "rotation_offset_left": [
+      40.0,
+      0.0,
+      0.0
+    ],
+    "haptics_intensity": 1.0,
+    "haptics_amplitude_curve": 0.4,
+    "haptics_min_duration": 0.01,
+    "haptics_low_duration_amplitude_multiplier": 2.5,
+    "haptics_low_duration_range": 0.5,
+    "use_headset_tracking_system": false,
+    "enable_foveated_rendering": false,
+    "foveation_center_size_x": 0.0,
+    "foveation_center_size_y": 0.0,
+    "foveation_center_shift_x": 0.0,
+    "foveation_center_shift_y": 0.0,
+    "foveation_edge_ratio_x": 0.0,
+    "foveation_edge_ratio_y": 0.0,
+    "enable_color_correction": true,
+    "brightness": 0.0,
+    "contrast": 0.0,
+    "saturation": 0.5,
+    "gamma": 1.0,
+    "sharpening": 0.0,
+    "enable_fec": true,
+    "linux_async_reprojection": false
+  },
+  "clientConnections": {
+    "1248.client.alvr": {
+      "displayName": "Oculus Quest",
+      "manualIps": [],
+      "trusted": true
+    }
+  },
+  "sessionSettings": {
+    "video": {
+      "adapterIndex": 0,
+      "renderResolution": {
+        "scale": 1.0,
+        "absolute": {
+          "width": 2880,
+          "height": 1600
+        },
+        "variant": "scale"
+      },
+      "recommendedTargetResolution": {
+        "scale": 1.0,
+        "absolute": {
+          "width": 2880,
+          "height": 1600
+        },
+        "variant": "scale"
+      },
+      "preferredFps": 90.0,
+      "codec": {
+        "variant": "H264"
+      },
+      "clientRequestRealtimeDecoder": true,
+      "use10bitEncoder": false,
+      "forceSwEncoding": false,
+      "swThreadCount": 0,
+      "encodeBitrateMbs": 30,
+      "adaptiveBitrate": {
+        "enabled": true,
+        "content": {
+          "bitrateMaximum": 200,
+          "latencyTarget": 12000,
+          "latencyUseFrametime": {
+            "enabled": false,
+            "content": {
+              "latencyTargetMaximum": 30000,
+              "latencyTargetOffset": 0
+            }
+          },
+          "latencyThreshold": 3000,
+          "bitrateUpRate": 1,
+          "bitrateDownRate": 3,
+          "bitrateLightLoadThreshold": 0.7
+        }
+      },
+      "secondsFromVsyncToPhotons": 0.005,
+      "foveatedRendering": {
+        "enabled": false,
+        "content": {
+          "centerSizeX": 0.4,
+          "centerSizeY": 0.35,
+          "centerShiftX": 0.4,
+          "centerShiftY": 0.1,
+          "edgeRatioX": 4.0,
+          "edgeRatioY": 5.0,
+          "oculusFoveationLevel": {
+            "variant": "highTop"
+          },
+          "dynamicOculusFoveation": true
+        }
+      },
+      "colorCorrection": {
+        "enabled": true,
+        "content": {
+          "brightness": 0.0,
+          "contrast": 0.0,
+          "saturation": 0.5,
+          "gamma": 1.0,
+          "sharpening": 0.0
+        }
+      }
+    },
+    "audio": {
+      "linuxBackend": {
+        "variant": "alsa"
+      },
+      "gameAudio": {
+        "enabled": true,
+        "content": {
+          "deviceId": {
+            "name": "pipewire",
+            "index": 1,
+            "variant": "name"
+          },
+          "muteWhenStreaming": false,
+          "bufferingConfig": {
+            "averageBufferingMs": 50,
+            "batchMs": 10
+          }
+        }
+      },
+      "microphone": {
+        "enabled": false,
+        "content": {
+          "inputDeviceId": {
+            "name": "",
+            "index": 1,
+            "variant": "default"
+          },
+          "bufferingConfig": {
+            "averageBufferingMs": 50,
+            "batchMs": 10
+          }
+        }
+      }
+    },
+    "headset": {
+      "modeIdx": 2,
+      "universeId": 2,
+      "serialNumber": "1WMGH000XX0000",
+      "trackingSystemName": "oculus",
+      "modelNumber": "Miramar",
+      "driverVersion": "1.55.0",
+      "manufacturerName": "Oculus",
+      "renderModelName": "generic_hmd",
+      "registeredDeviceType": "oculus/1WMGH000XX0000",
+      "trackingFrameOffset": 0,
+      "positionOffset": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "force3dof": false,
+      "trackingRefOnly": false,
+      "enableViveTrackerProxy": false,
+      "controllers": {
+        "enabled": true,
+        "content": {
+          "modeIdx": 7,
+          "trackingSystemName": "oculus",
+          "manufacturerName": "Oculus",
+          "modelNumber": "Miramar",
+          "renderModelNameLeft": "oculus_quest2_controller_left",
+          "renderModelNameRight": "oculus_quest2_controller_right",
+          "serialNumber": "1WMGH000XX0000_Controller",
+          "ctrlTypeLeft": "oculus_touch",
+          "ctrlTypeRight": "oculus_touch",
+          "registeredDeviceType": "oculus/1WMGH000XX0000_Controller",
+          "inputProfilePath": "{oculus}/input/touch_profile.json",
+          "predictionMultiplier": 1.0,
+          "steamvrHmdPredictionMultiplier": 1.0,
+          "steamvrCtrlPredictionMultiplier": 0.0,
+          "linearVelocityCutoff": 0.01,
+          "angularVelocityCutoff": 10.0,
+          "positionOffsetLeft": [
+            -0.0065,
+            0.002,
+            -0.051
+          ],
+          "rotationOffsetLeft": [
+            40.0,
+            0.0,
+            0.0
+          ],
+          "hapticsIntensity": 1.0,
+          "hapticsAmplitudeCurve": 0.4,
+          "hapticsMinDuration": 0.01,
+          "hapticsLowDurationAmplitudeMultiplier": 2.5,
+          "hapticsLowDurationRange": 0.5,
+          "useHeadsetTrackingSystem": false
+        }
+      },
+      "extraLatencyMode": false
+    },
+    "connection": {
+      "clientDiscovery": {
+        "enabled": true,
+        "content": {
+          "autoTrustClients": false
+        }
+      },
+      "webServerPort": 8082,
+      "streamProtocol": {
+        "throttledUdp": {
+          "bitrateMultiplier": 1.5
+        },
+        "variant": "tcp"
+      },
+      "streamPort": 9944,
+      "aggressiveKeyframeResend": false,
+      "onConnectScript": "",
+      "onDisconnectScript": "",
+      "enableFec": true,
+      "statisticsHistorySize": 1024
+    },
+    "extra": {
+      "theme": {
+        "variant": "systemDefault"
+      },
+      "clientDarkMode": false,
+      "revertConfirmDialog": true,
+      "restartConfirmDialog": true,
+      "promptBeforeUpdate": true,
+      "updateChannel": {
+        "variant": "noUpdates"
+      },
+      "logToDisk": false,
+      "logButtonPresses": false,
+      "notificationLevel": {
+        "variant": "warning"
+      },
+      "excludeNotificationsWithoutId": false,
+      "patches": {
+        "removeSyncPopup": false,
+        "linuxAsyncReprojection": false
+      }
+    }
+  },
+  "advanced": false
+}

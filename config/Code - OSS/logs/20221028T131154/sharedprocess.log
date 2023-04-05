@@ -1,0 +1,59 @@
+[2022-10-28 13:11:57.711] [sharedprocess] [info] Starting worker process with pid 4551 (type: fileWatcher, window: 1).
+[2022-10-28 13:12:31.826] [sharedprocess] [info] Getting Manifest... evzen-wybitul.magic-racket
+[2022-10-28 13:12:31.861] [sharedprocess] [info] Installing extension: evzen-wybitul.magic-racket
+[2022-10-28 13:12:32.739] [sharedprocess] [info] Downloaded extension: evzen-wybitul.magic-racket /home/matt/.config/Code - OSS/CachedExtensionVSIXs/evzen-wybitul.magic-racket-0.6.2-universal
+[2022-10-28 13:12:32.984] [sharedprocess] [info] Extracted extension to /home/matt/.vscode-oss/extensions/.9cbe04a6-bfd6-44d9-9aca-7bb305633b8d: evzen-wybitul.magic-racket
+[2022-10-28 13:12:32.989] [sharedprocess] [info] Renamed to /home/matt/.vscode-oss/extensions/evzen-wybitul.magic-racket-0.6.2-universal
+[2022-10-28 13:12:32.991] [sharedprocess] [info] Extracting completed. evzen-wybitul.magic-racket
+[2022-10-28 13:12:32.992] [sharedprocess] [info] Extension installed successfully: evzen-wybitul.magic-racket
+[2022-10-28 13:12:37.104] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-10-28 13:12:37.137] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-10-28 13:12:37.426] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-10-28 13:12:38.139] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-10-28 13:12:38.604] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2022-10-28 13:12:39.079] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter ms-python.python
+[2022-10-28 13:12:39.079] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-renderers ms-python.python
+[2022-10-28 13:12:39.079] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-keymap ms-python.python
+[2022-10-28 13:12:39.921] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-keymap /home/matt/.config/Code - OSS/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0-universal
+[2022-10-28 13:12:39.931] [sharedprocess] [info] Extracted extension to /home/matt/.vscode-oss/extensions/.6bb963ad-4d69-4c9a-b774-b15a33c3b851: ms-toolsai.jupyter-keymap
+[2022-10-28 13:12:39.934] [sharedprocess] [info] Renamed to /home/matt/.vscode-oss/extensions/ms-toolsai.jupyter-keymap-1.0.0-universal
+[2022-10-28 13:12:39.935] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2022-10-28 13:12:40.410] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/matt/.config/Code - OSS/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.10.110-universal
+[2022-10-28 13:12:40.505] [sharedprocess] [info] Getting Manifest... redhat.vscode-yaml
+[2022-10-28 13:12:40.522] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/matt/.config/Code - OSS/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.9-universal
+[2022-10-28 13:12:40.539] [sharedprocess] [info] Installing extension: redhat.vscode-yaml
+[2022-10-28 13:12:40.946] [sharedprocess] [info] Extracted extension to /home/matt/.vscode-oss/extensions/.1cbcb05a-981d-422e-9b48-3a131a72e12c: ms-toolsai.jupyter-renderers
+[2022-10-28 13:12:40.953] [sharedprocess] [info] Renamed to /home/matt/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.9-universal
+[2022-10-28 13:12:40.955] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2022-10-28 13:12:41.316] [sharedprocess] [info] Downloaded extension: redhat.vscode-yaml /home/matt/.config/Code - OSS/CachedExtensionVSIXs/redhat.vscode-yaml-1.10.1-universal
+[2022-10-28 13:12:41.318] [sharedprocess] [info] Extracted extension to /home/matt/.vscode-oss/extensions/.4c407ef5-5366-4fcf-9a6e-b2d720bd9645: ms-toolsai.jupyter
+[2022-10-28 13:12:41.325] [sharedprocess] [info] Renamed to /home/matt/.vscode-oss/extensions/ms-toolsai.jupyter-2022.10.110-universal
+[2022-10-28 13:12:41.343] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2022-10-28 13:12:41.468] [sharedprocess] [info] Extracted extension to /home/matt/.vscode-oss/extensions/.ee11ff9c-b308-44a3-9ae7-99d1fb50963a: redhat.vscode-yaml
+[2022-10-28 13:12:41.472] [sharedprocess] [info] Renamed to /home/matt/.vscode-oss/extensions/redhat.vscode-yaml-1.10.1-universal
+[2022-10-28 13:12:41.474] [sharedprocess] [info] Extracting completed. redhat.vscode-yaml
+[2022-10-28 13:12:41.475] [sharedprocess] [info] Extension installed successfully: redhat.vscode-yaml
+[2022-10-28 13:12:42.686] [sharedprocess] [info] Downloaded extension: ms-python.python /home/matt/.config/Code - OSS/CachedExtensionVSIXs/ms-python.python-2022.16.1-universal
+[2022-10-28 13:12:44.148] [sharedprocess] [info] Getting Manifest... ms-azuretools.vscode-docker
+[2022-10-28 13:12:44.182] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2022-10-28 13:12:44.398] [sharedprocess] [info] Extracted extension to /home/matt/.vscode-oss/extensions/.6e5e839a-99f3-4e93-89f2-f1c067c58705: ms-python.python
+[2022-10-28 13:12:44.411] [sharedprocess] [info] Renamed to /home/matt/.vscode-oss/extensions/ms-python.python-2022.16.1-universal
+[2022-10-28 13:12:44.415] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-10-28 13:12:44.418] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2022-10-28 13:12:44.418] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2022-10-28 13:12:44.419] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-10-28 13:12:44.419] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2022-10-28 13:12:44.666] [sharedprocess] [info] Getting Manifest... vscode.yaml
+[2022-10-28 13:12:44.970] [sharedprocess] [info] Getting Manifest... vscode.docker
+[2022-10-28 13:12:45.852] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /home/matt/.config/Code - OSS/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.22.2-universal
+[2022-10-28 13:12:45.982] [sharedprocess] [info] Extracted extension to /home/matt/.vscode-oss/extensions/.0fad5665-db89-4c26-bae3-324b34b8d2bf: ms-azuretools.vscode-docker
+[2022-10-28 13:12:45.988] [sharedprocess] [info] Renamed to /home/matt/.vscode-oss/extensions/ms-azuretools.vscode-docker-1.22.2-universal
+[2022-10-28 13:12:45.995] [sharedprocess] [info] Extracting completed. ms-azuretools.vscode-docker
+[2022-10-28 13:12:45.998] [sharedprocess] [info] Extension installed successfully: ms-azuretools.vscode-docker
+[2022-10-28 13:13:31.283] [sharedprocess] [info] Getting Manifest... rust-lang.rust
+[2022-10-28 13:13:31.318] [sharedprocess] [info] Installing extension: rust-lang.rust
+[2022-10-28 13:13:31.893] [sharedprocess] [info] Downloaded extension: rust-lang.rust /home/matt/.config/Code - OSS/CachedExtensionVSIXs/rust-lang.rust-0.7.8-universal
+[2022-10-28 13:13:31.975] [sharedprocess] [info] Extracted extension to /home/matt/.vscode-oss/extensions/.4d5c601e-cb49-45d7-837c-e746e79ea6a0: rust-lang.rust
+[2022-10-28 13:13:31.977] [sharedprocess] [info] Renamed to /home/matt/.vscode-oss/extensions/rust-lang.rust-0.7.8-universal
+[2022-10-28 13:13:31.977] [sharedprocess] [info] Extracting completed. rust-lang.rust
+[2022-10-28 13:13:31.977] [sharedprocess] [info] Extension installed successfully: rust-lang.rust

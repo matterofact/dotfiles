@@ -1,0 +1,45 @@
+2023-03-11 18:22:46.875 [info] Started initializing default profile extensions in extensions installation folder. file:///home/matt/.vscode-oss/extensions
+2023-03-11 18:22:47.123 [info] Starting worker process with pid 21158 (type: fileWatcher, window: 1).
+2023-03-11 18:22:47.350 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/matt/.vscode-oss/extensions
+2023-03-11 18:22:50.061 [info] Getting Manifest... ms-azuretools.vscode-docker
+2023-03-11 18:22:50.069 [info] Getting Manifest... ms-python.python
+2023-03-11 18:22:50.070 [info] Getting Manifest... ms-toolsai.jupyter
+2023-03-11 18:22:50.071 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2023-03-11 18:22:50.073 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2023-03-11 18:22:50.074 [info] Getting Manifest... redhat.vscode-yaml
+2023-03-11 18:22:50.751 [info] Installing extension: ms-toolsai.jupyter-keymap
+2023-03-11 18:22:50.772 [info] Installing extension: ms-toolsai.jupyter-renderers
+2023-03-11 18:22:50.773 [info] Installing extension: redhat.vscode-yaml
+2023-03-11 18:22:50.846 [info] Installing extension: ms-python.python
+2023-03-11 18:22:50.848 [info] Installing extension: ms-azuretools.vscode-docker
+2023-03-11 18:22:50.849 [info] Installing extension: ms-toolsai.jupyter
+2023-03-11 18:22:51.927 [info] Extracted extension to /home/matt/.vscode-oss/extensions/.c595ae4b-4fd8-4aed-b8ce-953a63db2aad: ms-toolsai.jupyter-keymap
+2023-03-11 18:22:51.931 [info] Renamed to /home/matt/.vscode-oss/extensions/ms-toolsai.jupyter-keymap-1.1.0-universal
+2023-03-11 18:22:51.933 [info] Extracting extension completed. ms-toolsai.jupyter-keymap
+2023-03-11 18:22:51.947 [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+2023-03-11 18:22:51.951 [info] Marked extension as uninstalled ms-toolsai.jupyter-keymap-1.0.0-universal
+2023-03-11 18:22:52.237 [info] Extracted extension to /home/matt/.vscode-oss/extensions/.928afed7-ad19-4656-89e8-4634b9193ea1: redhat.vscode-yaml
+2023-03-11 18:22:52.240 [info] Renamed to /home/matt/.vscode-oss/extensions/redhat.vscode-yaml-1.12.1-universal
+2023-03-11 18:22:52.244 [info] Extracting extension completed. redhat.vscode-yaml
+2023-03-11 18:22:52.250 [info] Extension installed successfully: redhat.vscode-yaml
+2023-03-11 18:22:52.252 [info] Marked extension as uninstalled redhat.vscode-yaml-1.10.1-universal
+2023-03-11 18:22:52.462 [info] Extracted extension to /home/matt/.vscode-oss/extensions/.205cde6b-1891-4586-bff9-32cfbe9026cf: ms-azuretools.vscode-docker
+2023-03-11 18:22:52.469 [info] Renamed to /home/matt/.vscode-oss/extensions/ms-azuretools.vscode-docker-1.24.0-universal
+2023-03-11 18:22:52.471 [info] Extracting extension completed. ms-azuretools.vscode-docker
+2023-03-11 18:22:52.480 [info] Extension installed successfully: ms-azuretools.vscode-docker
+2023-03-11 18:22:52.483 [info] Marked extension as uninstalled ms-azuretools.vscode-docker-1.22.2-universal
+2023-03-11 18:22:53.169 [info] Extracted extension to /home/matt/.vscode-oss/extensions/.6fc82ceb-ee21-4aa2-b10a-94a9ba5a267d: ms-toolsai.jupyter-renderers
+2023-03-11 18:22:53.174 [info] Renamed to /home/matt/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.12-universal
+2023-03-11 18:22:53.175 [info] Extracting extension completed. ms-toolsai.jupyter-renderers
+2023-03-11 18:22:53.183 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2023-03-11 18:22:53.186 [info] Marked extension as uninstalled ms-toolsai.jupyter-renderers-1.0.9-universal
+2023-03-11 18:22:53.363 [info] Extracted extension to /home/matt/.vscode-oss/extensions/.6d9219b7-c61d-4782-a350-412d90b14bca: ms-toolsai.jupyter
+2023-03-11 18:22:53.369 [info] Renamed to /home/matt/.vscode-oss/extensions/ms-toolsai.jupyter-2023.3.100-universal
+2023-03-11 18:22:53.375 [info] Extracting extension completed. ms-toolsai.jupyter
+2023-03-11 18:22:53.383 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-03-11 18:22:53.395 [info] Marked extension as uninstalled ms-toolsai.jupyter-2022.10.110-universal
+2023-03-11 18:22:54.707 [info] Extracted extension to /home/matt/.vscode-oss/extensions/.d31a1f6d-13a7-47d9-8a55-2d25c8b52e25: ms-python.python
+2023-03-11 18:22:54.712 [info] Renamed to /home/matt/.vscode-oss/extensions/ms-python.python-2023.4.0-universal
+2023-03-11 18:22:54.716 [info] Extracting extension completed. ms-python.python
+2023-03-11 18:22:54.723 [info] Extension installed successfully: ms-python.python
+2023-03-11 18:22:54.727 [info] Marked extension as uninstalled ms-python.python-2022.16.1-universal

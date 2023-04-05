@@ -1,0 +1,5 @@
+[2022-10-28 13:18:01.839] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-10-28 13:18:03.436] [main] [info] Starting extension host with pid 5635 (fork() took 11 ms).
+[2022-10-28 13:23:57.522] [main] [info] Enabling inspect port on extension host with pid 5635.
+[2022-10-28 23:37:18.853] [main] [info] Waiting for extension host with pid 5635 to exit.
+[2022-10-28 23:37:18.863] [main] [info] Extension host with pid 5635 exited with code: 0, signal: null.
