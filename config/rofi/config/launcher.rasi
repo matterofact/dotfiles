@@ -3,7 +3,7 @@ configuration {
     display-drun: 		            "";
     drun-display-format:            "{icon} {name}";
     disable-history:                false;
-    click-to-exit: 		            true;
+    click-to-exit: 		    true;
     location:                       0;
 }
 
@@ -37,7 +37,7 @@ textbox-prompt-colon {
     background-color:               @SEL;
     text-color:                     @FG;
     padding:                        8px 12px 8px 12px;
-    font:			                "Iosevka Nerd Font 10";
+    font:			                "hack 10";
 }
 
 entry {

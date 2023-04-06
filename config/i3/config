@@ -9,6 +9,10 @@
 # layout, use the i3-config-wizard
 #
 
+# Compositor
+
+exec --no-startup-id "picom -b --config dotfiles/config/picom/picom.conf"
+
 # Keyboard Layout
 
 exec --no-startup-id "setxkbmap -layout gb"
@@ -17,7 +21,7 @@ exec --no-startup-id "setxkbmap -layout gb"
 # Mod key
 
 set $mod Mod4
-set $wallpaper ~/Pictures/Wallpapers/ekn51fwc5me71.png
+set $wallpaper ~/Pictures/Wallpapers/wallhaven-1k6ljv.jpg
 
 # Wallpaper
 
