@@ -63,16 +63,21 @@ exec --no-startup-id nm-applet
 
 # Use pactl to adjust volume in PulseAudio.
 set $refresh_bumblebee-status killall -SIGUSR1 bumblebee-status
-bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +2% && $refresh_bumblebee-status
-bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ -2% && $refresh_bumblebee-status
-bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle && $refresh_bumblebee-status
+bindsym XF86AudioRaiseVolume exec --no-startup-id ~/dotfiles/config/dunst/volume_brightness.sh volume_up && $refresh_bumblebee-status
+#pactl set-sink-volume @DEFAULT_SINK@ +2% && $refresh_bumblebee-status
+bindsym XF86AudioLowerVolume exec --no-startup-id ~/dotfiles/config/dunst/volume_brightness.sh volume_down && refresh_bumblebee-status
+#pactl set-sink-volume @DEFAULT_SINK@ -2% && $refresh_bumblebee-status
+bindsym XF86AudioMute exec --no-startup-id #/dotfiles/config/dunst/volume_brightness.sh volume_mute && $refresh_bumblebee-status
+#pactl set-sink-mute @DEFAULT_SINK@ toggle && $refresh_bumblebee-status
 bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOURCE@ toggle && $refresh_bumblebee-status
 
 
 # Adjust Brightness
 
-bindsym XF86MonBrightnessUp exec light -A 10
-bindsym XF86MonBrightnessDown exec light -U 10
+bindsym XF86MonBrightnessUp exec --no-startup-id ~/dotfiles/config/dunst/volume_brightness.sh brightness_up
+#light -A 10
+bindsym XF86MonBrightnessDown exec --no-startup-id ~/dotfiles/config/dunst/volume_brightness.sh brightness_down
+#light -U 10
 
 # use these keys for focus, movement, and resize directions when reaching for
 # the arrows is not convenient
