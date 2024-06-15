@@ -49,7 +49,7 @@ input * {
 }
 
 
-exec --no-startup-id "dbus-update-activation-environment --systemd DBUS_SESSION_BUS_ADDRESS DISPLAY XAUTHORITY &"
+exec "dbus-update-activation-environment --systemd DBUS_SESSION_BUS_ADDRESS DISPLAY XAUTHORITY &"
 
 output DP-1 mode 2560x1440@143.973Hz
 
@@ -88,18 +88,22 @@ font pango:hack 8
 
 # Start XDG autostart .desktop files using dex. See also
 # https://wiki.archlinux.org/index.php/XDG_Autostart
-exec  --no-startup-id dex --autostart --environment sway
+exec  --autostart --environment sway
 
 # Notifications - Dunst
 
-exec_always --no-startup-id dunst -config ~/.config/dunst/dunstrc 
+exec_always dunst -config ~/.config/dunst/dunstrc 
 
 # Keybinding to Lock Screen
-bindsym $mod+Shift+Return exec --no-startup-id sllock -c 000000  
+bindsym $mod+Shift+Return exec swaylock -c 000000  
 
 # auto lock the screen
- exec --no-startup-id "xautolock -detectsleep -time 15 -locker \"i3lock -c 000000\""
-bindsym --release $mod+Shift+Return exec --no-startup-id slock 
+set $lock swaylock -c 000000
+exec swayidle -w \
+	timeout 600 $lock \
+	timeout 570 'swaymsg "output * dpms off"' \
+	resume 'swaymsg "output * dpms on"' \
+	before-sleep $lock
 
 # NetworkManager is the most popular way to manage wireless networks on Linux,
 # and nm-applet is a desktop environment-independent system tray GUI for it.
