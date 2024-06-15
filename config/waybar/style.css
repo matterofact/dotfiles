@@ -1,3 +1,5 @@
+@import "mocha.css";
+
 @keyframes blink-warning {
     to {
         background-color: #bf616a;
@@ -22,9 +24,8 @@
 }
 
 window#waybar {
-    background-color: #3b4252;
-    color: #e5e9f0;
-    opacity: 0.9;
+    background-color: shade(@base, 0.9);
+    border: 2px solid alpha(@crust, 0.3);
 }
 
 #window {
@@ -32,7 +33,7 @@ window#waybar {
 }
 
 #workspaces {
-    background-color: #4c566a;
+    background-color: shade(@base, 0.9);
 }
 
 #workspaces button {
@@ -46,7 +47,7 @@ window#waybar {
 #workspaces button.focused {
     background-color: #434c5e;
     color: #eceff4;
-    border-bottom: 3px solid #ebcb8b;
+    border-bottom: 3px solid @lavender;
 }
 
 #workspaces button:hover {
@@ -56,7 +57,7 @@ window#waybar {
 #mode {
     padding: 0px 9px;
     background-color: #a3be8c;
-    color: #3b4252;
+    color: @lavender;
     font-family: Noto Sans, sans-serif;
     font-size: 14px;
     font-weight: bold;
@@ -64,14 +65,11 @@ window#waybar {
 
 #clock, #language, #pulseaudio, #tray, #memory, #cpu, #battery {
     padding: 0px 8px;
-    color: #d8dee9;
+    background-color: shade(@base, 0.9);
+    color: @lavender;
     font-size: 14px;
 }
 
-#clock {
-    background-color: #4c566a;
-    font-weight: bold;
-}
 
 #language {
     color: #d8dee9;
@@ -79,6 +77,8 @@ window#waybar {
 }
 
 #pulseaudio {
+	color: @lavender;
+	padding-right: 10px
 }
 
 #pulseaudio.muted {
@@ -86,10 +86,11 @@ window#waybar {
 }
 
 #tray {
+	padding-right: 10px;
 }
 
 #cpu {
-    padding-left: 0px;
+    padding-right: 10px;
     font-size: 13px;
 }
 
@@ -102,7 +103,7 @@ window#waybar {
 }
 
 #memory {
-    padding-left: 0px;
+    padding-left: 10px;
     font-size: 13px;
 }
 
