@@ -15,8 +15,8 @@
 
 * {
     border: none;
-    border-radius: 0;
-    font-family: Noto Mono, monospace;
+    border-radius: 10px;
+    font-family: "hack, monospace";
     font-size: 13px;
     min-height: 0;
     box-shadow: none;
@@ -29,11 +29,13 @@ window#waybar {
 }
 
 #window {
-    font-family: Noto Sans, sans-serif;
+    font-family: hack, monospace;
+    color: @lavender;
 }
 
 #workspaces {
     background-color: shade(@base, 0.9);
+    padding-left: 6px;
 }
 
 #workspaces button {
@@ -44,10 +46,12 @@ window#waybar {
     font-weight: 900;
 }
 
-#workspaces button.focused {
-    background-color: #434c5e;
+#workspaces button.active {
     color: #eceff4;
-    border-bottom: 3px solid @lavender;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom: 3px solid;
+    border-bottom-color: @lavender;
 }
 
 #workspaces button:hover {
@@ -76,6 +80,10 @@ window#waybar {
     font-weight: bold;
 }
 
+#network {
+	color: @lavender;
+}
+
 #pulseaudio {
 	color: @lavender;
 	padding-right: 10px
@@ -90,7 +98,7 @@ window#waybar {
 }
 
 #cpu {
-    padding-right: 10px;
+    padding-left: 10px;
     font-size: 13px;
 }
 
