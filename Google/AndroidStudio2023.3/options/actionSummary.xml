@@ -1,0 +1,157 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="2" l="1717883503156" />
+    </e>
+    <e n="$Undo">
+      <i c="1" l="1717883440971" />
+    </e>
+    <e n="ActivateGradleToolWindow">
+      <i c="1" l="1717882279314" />
+    </e>
+    <e n="ActivateRunToolWindow">
+      <i c="1" l="1717880559418" />
+    </e>
+    <e n="ActivateStructureToolWindow">
+      <i c="1" l="1717882071489" />
+    </e>
+    <e n="Android.DeviceManager2">
+      <i c="2" l="1717882577679" />
+    </e>
+    <e n="CollectZippedLogs">
+      <i c="1" l="1717880401380" />
+    </e>
+    <e n="CreateDesktopEntry">
+      <i c="2" l="1717880429459" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="33" l="1717883559806" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="1" l="1717883500269" />
+    </e>
+    <e n="EditorDelete">
+      <i c="2" l="1717882191565" />
+    </e>
+    <e n="EditorDown">
+      <i c="1" l="1717882198329" />
+    </e>
+    <e n="EditorEnter">
+      <i c="8" l="1717883582946" />
+    </e>
+    <e n="EditorLeft">
+      <i c="3" l="1717883293240" />
+    </e>
+    <e n="EditorPaste">
+      <i c="7" l="1717883583074" />
+    </e>
+    <e n="EditorRight">
+      <i c="16" l="1717882197061" />
+    </e>
+    <e n="EditorTab">
+      <i c="9" l="1717883495798" />
+    </e>
+    <e n="EditorTabsEntryPoint">
+      <i c="2" l="1717883481876" />
+    </e>
+    <e n="EditorUp">
+      <i c="4" l="1717882197755" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="2" l="1717880696827" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="5" l="1717882414421" />
+    </e>
+    <e n="Run">
+      <i c="5" l="1717883080815" />
+    </e>
+    <e n="RunClass">
+      <i c="1" l="1717883614438" />
+    </e>
+    <e n="SaveAll">
+      <i c="18" l="1717883593452" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1717881437419" />
+    </e>
+    <e n="Stop">
+      <i c="4" l="1717883100229" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1717880445284" />
+    </e>
+    <e n="android.device.overview.button">
+      <i c="1" l="1717883421019" />
+    </e>
+    <e n="android.device.power.button">
+      <i c="1" l="1717883427446" />
+    </e>
+    <e n="com.android.build.output.LongDownloadsNotifier$notifyIfTimeElapsed$1$1">
+      <i c="1" l="1717880603062" />
+    </e>
+    <e n="com.android.tools.adtui.actions.DropDownAction">
+      <i c="1" l="1717882613930" />
+    </e>
+    <e n="com.android.tools.adtui.actions.PanSurfaceAction">
+      <i c="1" l="1717883324988" />
+    </e>
+    <e n="com.android.tools.idea.devicemanagerv2.DeleteAction">
+      <i c="1" l="1717882610547" />
+    </e>
+    <e n="com.android.tools.idea.devicemanagerv2.DeviceManagerPanel$toAnAction$2">
+      <i c="1" l="1717882615089" />
+    </e>
+    <e n="com.android.tools.idea.devicemanagerv2.EditDeviceAction">
+      <i c="2" l="1717882581709" />
+    </e>
+    <e n="com.android.tools.idea.editors.liveedit.ui.LiveEditIssueNotificationAction">
+      <i c="1" l="1717881948105" />
+    </e>
+    <e n="com.android.tools.idea.run.deployment.liveedit.LiveEditNotifications$notifyLiveEditAvailability$2$1">
+      <i c="1" l="1717881966073" />
+    </e>
+    <e n="com.android.tools.idea.streaming.core.StreamingToolWindowManager$NewTabAction">
+      <i c="2" l="1717882573472" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.NavigateAction">
+      <i c="1" l="1717882224629" />
+    </e>
+    <e n="com.intellij.execution.ExecutorRegistryImpl$RunSpecifiedConfigExecutorAction">
+      <i c="1" l="1717880680456" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="1" l="1717882478429" />
+    </e>
+    <e n="com.intellij.execution.ui.SelectRunConfigurationWithInlineActions">
+      <i c="2" l="1717882089478" />
+    </e>
+    <e n="com.intellij.ide.actions.SettingsEntryPointAction$2">
+      <i c="1" l="1717881442148" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="7" l="1717883596815" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1717882234666" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="3" l="1717882074516" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowImpl$RemoveStripeButtonAction">
+      <i c="1" l="1717880675763" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="3" l="1717882953728" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="3" l="1717880427687" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="2" l="1717882068547" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="3" l="1717881525235" />
+    </e>
+  </component>
+</application>

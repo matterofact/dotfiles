@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PluginStats>
+  <Plugin type="Lua" id="ab0881f761420ca67ad08856c7daf5c2b13a0d49" lru="1688229199" use-count="1"/>
+  <Plugin type="LV2" id="urn:ardour:a-reverb" lru="1688229440" use-count="3"/>
+  <Plugin type="LV2" id="urn:ardour:a-eq" lru="1688229199" use-count="1"/>
+  <Plugin type="LV2" id="urn:ardour:a-comp" lru="1688229199" use-count="1"/>
+  <Plugin type="LV2" id="http://gareus.org/oss/lv2/darc#mono" lru="1688229199" use-count="1"/>
+  <Plugin type="LV2" id="http://calf.sourceforge.net/plugins/Limiter" lru="1688227454" use-count="2"/>
+  <Plugin type="LV2" id="http://calf.sourceforge.net/plugins/Compressor" lru="1688229199" use-count="1"/>
+</PluginStats>

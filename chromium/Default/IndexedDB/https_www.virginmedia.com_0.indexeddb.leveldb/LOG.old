@@ -1,0 +1,30 @@
+2024/02/24-15:24:43.059 2e04d Reusing MANIFEST /home/matt/.config/chromium/Default/IndexedDB/https_www.virginmedia.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/24-15:24:43.059 2e04d Recovering log #54
+2024/02/24-15:24:43.064 2e04d Reusing old log /home/matt/.config/chromium/Default/IndexedDB/https_www.virginmedia.com_0.indexeddb.leveldb/000054.log 
+2024/02/24-15:29:51.482 2e04e Level-0 table #59: started
+2024/02/24-15:29:51.500 2e04e Level-0 table #59: 1673354 bytes OK
+2024/02/24-15:29:51.502 2e04e Delete type=0 #54
+2024/02/24-15:31:09.716 2e05a Compacting 1@1 + 1@2 files
+2024/02/24-15:31:09.730 2e05a Generated table #60@1: 63 keys, 22454 bytes
+2024/02/24-15:31:09.730 2e05a Compacted 1@1 + 1@2 files => 22454 bytes
+2024/02/24-15:31:09.733 2e05a compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/24-15:31:09.733 2e05a Delete type=2 #59
+2024/02/24-15:31:09.733 2e05a Delete type=2 #56
+2024/02/24-15:37:17.205 2e04e Level-0 table #62: started
+2024/02/24-15:37:17.243 2e04e Level-0 table #62: 1762752 bytes OK
+2024/02/24-15:37:17.246 2e04e Delete type=0 #58
+2024/02/24-15:38:15.113 2e04d Compacting 1@1 + 1@2 files
+2024/02/24-15:38:15.120 2e04d Generated table #63@1: 63 keys, 22430 bytes
+2024/02/24-15:38:15.120 2e04d Compacted 1@1 + 1@2 files => 22430 bytes
+2024/02/24-15:38:15.121 2e04d compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/24-15:38:15.122 2e04d Delete type=2 #60
+2024/02/24-15:38:15.122 2e04d Delete type=2 #62
+2024/02/24-15:43:45.142 2e04e Level-0 table #65: started
+2024/02/24-15:43:45.161 2e04e Level-0 table #65: 1773718 bytes OK
+2024/02/24-15:43:45.164 2e04e Delete type=0 #61
+2024/02/24-15:44:40.344 2e05a Compacting 1@1 + 1@2 files
+2024/02/24-15:44:40.353 2e05a Generated table #66@1: 63 keys, 22433 bytes
+2024/02/24-15:44:40.353 2e05a Compacted 1@1 + 1@2 files => 22433 bytes
+2024/02/24-15:44:40.354 2e05a compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/24-15:44:40.354 2e05a Delete type=2 #63
+2024/02/24-15:44:40.354 2e05a Delete type=2 #65

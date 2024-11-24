@@ -1,0 +1,18 @@
+2024/09/21-17:56:18.937 151e3 Reusing MANIFEST /home/matt/.config/chromium/Default/IndexedDB/https_www.standard.co.uk_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/21-17:56:18.937 151e3 Recovering log #3
+2024/09/21-17:56:18.938 151e3 Reusing old log /home/matt/.config/chromium/Default/IndexedDB/https_www.standard.co.uk_0.indexeddb.leveldb/000003.log 
+2024/09/21-17:56:50.756 151e3 Level-0 table #5: started
+2024/09/21-17:56:50.789 151e3 Level-0 table #5: 4149593 bytes OK
+2024/09/21-17:56:50.793 151e3 Delete type=0 #3
+2024/09/21-17:57:15.860 151e3 Level-0 table #7: started
+2024/09/21-17:57:15.884 151e3 Level-0 table #7: 4246063 bytes OK
+2024/09/21-17:57:15.888 151e3 Delete type=0 #4
+2024/09/21-18:00:49.251 151e3 Compacting 1@1 + 1@2 files
+2024/09/21-18:00:49.260 151e3 Generated table #8@1: 69 keys, 163423 bytes
+2024/09/21-18:00:49.260 151e3 Compacted 1@1 + 1@2 files => 163423 bytes
+2024/09/21-18:00:49.268 151e3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/21-18:00:49.269 151e3 Delete type=2 #5
+2024/09/21-18:00:49.269 151e3 Delete type=2 #7
+2024/09/21-18:00:50.426 151e3 Level-0 table #10: started
+2024/09/21-18:00:50.449 151e3 Level-0 table #10: 4153255 bytes OK
+2024/09/21-18:00:50.453 151e3 Delete type=0 #6

@@ -1,0 +1,28 @@
+2024/06/19-20:35:33.310 184d Reusing MANIFEST /home/matt/.config/sh.cider.classic/Local Storage/leveldb/MANIFEST-000001
+2024/06/19-20:35:33.316 184d Recovering log #3
+2024/06/19-20:35:33.384 184d Level-0 table #3: started
+2024/06/19-20:35:33.436 184d Level-0 table #3: 2926085 bytes OK
+2024/06/19-20:35:33.439 184d Recovering log #4
+2024/06/19-20:35:33.485 184d Level-0 table #4: started
+2024/06/19-20:35:33.542 184d Level-0 table #4: 2917645 bytes OK
+2024/06/19-20:35:33.556 184d Delete type=0 #4
+2024/06/19-20:35:33.556 184d Delete type=0 #3
+2024/06/19-20:35:33.556 184d Delete type=2 #5
+2024/06/19-20:44:15.335 184f Level-0 table #7: started
+2024/06/19-20:44:15.465 184f Level-0 table #7: 2930191 bytes OK
+2024/06/19-20:44:15.473 184f Delete type=0 #5
+2024/06/19-20:52:54.875 184f Level-0 table #9: started
+2024/06/19-20:52:54.978 184f Level-0 table #9: 2914806 bytes OK
+2024/06/19-20:52:54.995 184f Delete type=0 #6
+2024/06/19-20:52:54.998 184f Compacting 4@0 + 0@1 files
+2024/06/19-20:52:55.102 184f Generated table #10@0: 5 keys, 2909639 bytes
+2024/06/19-20:52:55.112 184f Generated table #11@0: 25 keys, 8066 bytes
+2024/06/19-20:52:55.112 184f Compacted 4@0 + 0@1 files => 2917705 bytes
+2024/06/19-20:52:55.117 184f compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/06/19-20:52:55.117 184f Delete type=2 #7
+2024/06/19-20:52:55.117 184f Delete type=2 #4
+2024/06/19-20:52:55.117 184f Delete type=2 #3
+2024/06/19-20:52:55.117 184f Delete type=2 #9
+2024/06/19-21:01:33.872 184f Level-0 table #13: started
+2024/06/19-21:01:33.936 184f Level-0 table #13: 2916480 bytes OK
+2024/06/19-21:01:33.946 184f Delete type=0 #8

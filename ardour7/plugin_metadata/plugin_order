@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PluginOrder>
+  <PluginInfo sort="0" unique-id="http://calf.sourceforge.net/plugins/Limiter" expanded="0"/>
+  <PluginInfo sort="1" unique-id="ab0881f761420ca67ad08856c7daf5c2b13a0d49" expanded="0"/>
+  <PluginInfo sort="2" unique-id="urn:ardour:a-comp" expanded="0"/>
+  <PluginInfo sort="3" unique-id="urn:ardour:a-eq" expanded="0"/>
+</PluginOrder>

@@ -1,0 +1,23 @@
+2024-03-25 20:55:18.167 [info] Extension host with pid 5401 started
+2024-03-25 20:55:18.201 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-25 20:55:18.250 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-25 20:55:18.363 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-25 20:55:18.491 [info] Eager extensions activated
+2024-03-25 20:55:18.627 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-25 20:55:18.632 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-25 20:55:29.501 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-25 20:55:31.986 [info] Extension host terminating: renderer closed the MessagePort
+2024-03-25 20:55:31.997 [info] Extension host with pid 5401 exiting with code 0
+2024-03-25 20:55:33.248 [info] Extension host with pid 5662 started
+2024-03-25 20:55:33.341 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-25 20:55:33.398 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-25 20:55:33.402 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-25 20:55:33.433 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-25 20:55:33.506 [info] Eager extensions activated
+2024-03-25 20:55:33.541 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-25 20:55:33.544 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-25 20:57:25.657 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-03-25 20:58:12.570 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2024-03-25 20:58:40.657 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-03-25 20:58:40.741 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-03-25 20:59:28.925 [info] ExtensionService#_doActivateExtension mtxr.sqltools, startup: false, activationEvent: '*'

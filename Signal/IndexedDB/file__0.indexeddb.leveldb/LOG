@@ -1,0 +1,13 @@
+2024/01/29-20:47:02.980 72af Reusing MANIFEST /home/matt/.config/Signal/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2024/01/29-20:47:02.980 72af Recovering log #7
+2024/01/29-20:47:02.980 72af Reusing old log /home/matt/.config/Signal/IndexedDB/file__0.indexeddb.leveldb/000007.log 
+2024/01/29-20:47:03.157 7267 Level-0 table #11: started
+2024/01/29-20:47:03.158 7267 Level-0 table #11: 471 bytes OK
+2024/01/29-20:47:03.160 7267 Delete type=0 #7
+2024/01/29-20:47:03.160 7266 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\x05' @ 45 : 1
+2024/01/29-20:47:03.160 7266 Compacting 1@0 + 1@1 files
+2024/01/29-20:47:03.161 7266 Generated table #12@0: 7 keys, 359 bytes
+2024/01/29-20:47:03.161 7266 Compacted 1@0 + 1@1 files => 359 bytes
+2024/01/29-20:47:03.162 7266 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/29-20:47:03.163 7266 Delete type=2 #11
+2024/01/29-20:47:03.163 7266 Manual compaction at level-0 from '\x00\x03\x00\x00\x05' @ 45 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
