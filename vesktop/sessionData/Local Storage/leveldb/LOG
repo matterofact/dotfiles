@@ -1,6 +1,0 @@
-2024/07/29-21:33:24.634 7003 Reusing MANIFEST /home/matt/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
-2024/07/29-21:33:24.659 7003 Recovering log #3
-2024/07/29-21:33:24.660 7003 Reusing old log /home/matt/.config/vesktop/sessionData/Local Storage/leveldb/000003.log 
-2024/07/29-21:35:25.248 7003 Level-0 table #5: started
-2024/07/29-21:35:25.252 7003 Level-0 table #5: 30191 bytes OK
-2024/07/29-21:35:25.256 7003 Delete type=0 #3
