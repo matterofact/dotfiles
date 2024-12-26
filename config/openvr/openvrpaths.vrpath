@@ -1,17 +1,16 @@
 {
-	"config" : 
-	[
-		"/home/matt/.local/share/Steam/config"
-	],
-	"external_drivers" : null,
-	"jsonid" : "vrpathreg",
-	"log" : 
-	[
-		"/home/matt/.local/share/Steam/logs"
-	],
-	"runtime" : 
-	[
-		"/home/matt/.local/share/Steam/steamapps/common/SteamVR"
-	],
-	"version" : 1
+  "config": [
+    "/home/matt/.local/share/Steam/config"
+  ],
+  "external_drivers": [
+    "/home/matt/.local/share/ALVR-Launcher/installations/v20.11.1/alvr_streamer_linux/lib64/alvr"
+  ],
+  "jsonid": "vrpathreg",
+  "log": [
+    "/home/matt/.local/share/Steam/logs"
+  ],
+  "runtime": [
+    "/home/matt/.local/share/Steam/steamapps/common/SteamVR"
+  ],
+  "version": 1
 }

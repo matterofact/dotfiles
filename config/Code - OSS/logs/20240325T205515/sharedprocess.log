@@ -1,0 +1,378 @@
+2024-03-25 20:55:18.756 [info] Deleted uninstalled extension from disk ms-toolsai.jupyter-keymap /home/matt/.vscode-oss/extensions/ms-toolsai.jupyter-keymap-1.0.0-universal
+2024-03-25 20:55:18.845 [info] Deleted uninstalled extension from disk redhat.vscode-yaml /home/matt/.vscode-oss/extensions/redhat.vscode-yaml-1.10.1-universal
+2024-03-25 20:55:18.850 [info] Deleted uninstalled extension from disk ms-toolsai.jupyter-renderers /home/matt/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.9-universal
+2024-03-25 20:55:18.946 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/ms-toolsai.jupyter-keymap-1.0.0-universal.6016143d.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/ms-toolsai.jupyter-keymap-1.0.0-universal.6016143d.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-25 20:55:19.048 [info] Deleted uninstalled extension from disk ms-azuretools.vscode-docker /home/matt/.vscode-oss/extensions/ms-azuretools.vscode-docker-1.22.2-universal
+2024-03-25 20:55:19.052 [info] Deleted uninstalled extension from disk ms-toolsai.jupyter /home/matt/.vscode-oss/extensions/ms-toolsai.jupyter-2022.10.110-universal
+2024-03-25 20:55:19.170 [info] Deleted uninstalled extension from disk ms-python.python /home/matt/.vscode-oss/extensions/ms-python.python-2022.16.1-universal
+2024-03-25 20:55:21.439 [info] Getting Manifest... evzen-wybitul.magic-racket
+2024-03-25 20:55:21.444 [info] Getting Manifest... ms-azuretools.vscode-docker
+2024-03-25 20:55:21.445 [info] Getting Manifest... ms-python.python
+2024-03-25 20:55:21.447 [info] Getting Manifest... ms-toolsai.jupyter
+2024-03-25 20:55:21.448 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2024-03-25 20:55:21.450 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2024-03-25 20:55:21.451 [info] Getting Manifest... redhat.vscode-yaml
+2024-03-25 20:55:22.005 [info] Installing extension: ms-toolsai.jupyter-keymap
+2024-03-25 20:55:22.010 [info] Installing extension: evzen-wybitul.magic-racket
+2024-03-25 20:55:22.014 [info] Installing extension: ms-toolsai.jupyter-renderers
+2024-03-25 20:55:22.057 [info] Installing extension: redhat.vscode-yaml
+2024-03-25 20:55:22.072 [info] Installing extension: ms-python.python
+2024-03-25 20:55:22.079 [info] Installing extension: ms-toolsai.jupyter
+2024-03-25 20:55:22.155 [info] Installing extension: ms-azuretools.vscode-docker
+2024-03-25 20:55:22.829 [info] Getting Manifest... ms-python.debugpy
+2024-03-25 20:55:23.531 [info] Installing extension: ms-python.debugpy
+2024-03-25 20:55:24.233 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-03-25 20:55:24.245 [info] Extension signature verification is not done: ms-toolsai.jupyter-keymap
+2024-03-25 20:55:24.270 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-03-25 20:55:24.272 [info] Extension signature verification is not done: evzen-wybitul.magic-racket
+2024-03-25 20:55:24.293 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/ms-toolsai.jupyter-keymap-1.1.2-universal: ms-toolsai.jupyter-keymap
+2024-03-25 20:55:24.300 [info] Renamed to /home/matt/.vscode-oss/extensions/ms-toolsai.jupyter-keymap-1.1.2-universal
+2024-03-25 20:55:24.303 [info] Extracting extension completed. ms-toolsai.jupyter-keymap
+2024-03-25 20:55:24.322 [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+2024-03-25 20:55:24.328 [info] Marked extension as uninstalled ms-toolsai.jupyter-keymap-1.1.0-universal
+2024-03-25 20:55:24.353 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/evzen-wybitul.magic-racket-0.6.6-universal: evzen-wybitul.magic-racket
+2024-03-25 20:55:24.357 [info] Renamed to /home/matt/.vscode-oss/extensions/evzen-wybitul.magic-racket-0.6.6-universal
+2024-03-25 20:55:24.362 [info] Extracting extension completed. evzen-wybitul.magic-racket
+2024-03-25 20:55:24.385 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-03-25 20:55:24.386 [info] Extension signature verification is not done: redhat.vscode-yaml
+2024-03-25 20:55:24.394 [info] Extension installed successfully: evzen-wybitul.magic-racket
+2024-03-25 20:55:24.396 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-25 20:55:24.404 [info] Marked extension as uninstalled evzen-wybitul.magic-racket-0.6.2-universal
+2024-03-25 20:55:24.513 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/redhat.vscode-yaml-1.14.0-universal: redhat.vscode-yaml
+2024-03-25 20:55:24.529 [info] Renamed to /home/matt/.vscode-oss/extensions/redhat.vscode-yaml-1.14.0-universal
+2024-03-25 20:55:24.533 [info] Extracting extension completed. redhat.vscode-yaml
+2024-03-25 20:55:24.557 [info] Extension installed successfully: redhat.vscode-yaml
+2024-03-25 20:55:24.560 [info] Marked extension as uninstalled redhat.vscode-yaml-1.12.1-universal
+2024-03-25 20:55:24.570 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-03-25 20:55:24.571 [info] Extension signature verification is not done: ms-azuretools.vscode-docker
+2024-03-25 20:55:24.681 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/ms-azuretools.vscode-docker-1.29.0-universal: ms-azuretools.vscode-docker
+2024-03-25 20:55:24.691 [info] Renamed to /home/matt/.vscode-oss/extensions/ms-azuretools.vscode-docker-1.29.0-universal
+2024-03-25 20:55:24.695 [info] Extracting extension completed. ms-azuretools.vscode-docker
+2024-03-25 20:55:24.792 [info] Extension installed successfully: ms-azuretools.vscode-docker
+2024-03-25 20:55:24.795 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-25 20:55:24.804 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-03-25 20:55:24.806 [info] Marked extension as uninstalled ms-azuretools.vscode-docker-1.24.0-universal
+2024-03-25 20:55:24.807 [info] Extension signature verification is not done: ms-python.debugpy
+2024-03-25 20:55:25.029 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-03-25 20:55:25.031 [info] Extension signature verification is not done: ms-toolsai.jupyter-renderers
+2024-03-25 20:55:25.258 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-03-25 20:55:25.259 [info] Extension signature verification is not done: ms-toolsai.jupyter
+2024-03-25 20:55:25.458 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-03-25 20:55:25.459 [info] Extension signature verification is not done: ms-python.python
+2024-03-25 20:55:25.586 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/ms-python.debugpy-2024.2.0-linux-x64: ms-python.debugpy
+2024-03-25 20:55:25.590 [info] Renamed to /home/matt/.vscode-oss/extensions/ms-python.debugpy-2024.2.0-linux-x64
+2024-03-25 20:55:25.593 [info] Extracting extension completed. ms-python.debugpy
+2024-03-25 20:55:25.639 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-25 20:55:25.725 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.17-universal: ms-toolsai.jupyter-renderers
+2024-03-25 20:55:25.734 [info] Renamed to /home/matt/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.17-universal
+2024-03-25 20:55:25.736 [info] Extracting extension completed. ms-toolsai.jupyter-renderers
+2024-03-25 20:55:25.746 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2024-03-25 20:55:25.752 [info] Marked extension as uninstalled ms-toolsai.jupyter-renderers-1.0.12-universal
+2024-03-25 20:55:26.073 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/ms-toolsai.jupyter-2023.9.100-universal: ms-toolsai.jupyter
+2024-03-25 20:55:26.087 [info] Renamed to /home/matt/.vscode-oss/extensions/ms-toolsai.jupyter-2023.9.100-universal
+2024-03-25 20:55:26.093 [info] Extracting extension completed. ms-toolsai.jupyter
+2024-03-25 20:55:26.102 [info] Extension installed successfully: ms-toolsai.jupyter
+2024-03-25 20:55:26.108 [info] Marked extension as uninstalled ms-toolsai.jupyter-2023.3.100-universal
+2024-03-25 20:55:26.175 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-25 20:55:27.532 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/ms-python.python-2024.2.1-universal: ms-python.python
+2024-03-25 20:55:27.540 [info] Renamed to /home/matt/.vscode-oss/extensions/ms-python.python-2024.2.1-universal
+2024-03-25 20:55:27.543 [info] Extracting extension completed. ms-python.python
+2024-03-25 20:55:27.554 [info] Extension installed successfully: ms-python.debugpy
+2024-03-25 20:55:27.554 [info] Extension installed successfully: ms-python.python
+2024-03-25 20:55:27.560 [info] Marked extension as uninstalled ms-python.python-2023.4.0-universal
+2024-03-25 20:55:27.626 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-25 20:56:29.765 [info] Getting Manifest... golang.go
+2024-03-25 20:56:29.903 [info] Installing extension: golang.go
+2024-03-25 20:56:30.579 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-03-25 20:56:30.580 [info] Extension signature verification is not done: golang.go
+2024-03-25 20:56:30.662 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/golang.go-0.41.2-universal: golang.go
+2024-03-25 20:56:30.669 [info] Renamed to /home/matt/.vscode-oss/extensions/golang.go-0.41.2-universal
+2024-03-25 20:56:30.671 [info] Extracting extension completed. golang.go
+2024-03-25 20:56:30.682 [info] Extension installed successfully: golang.go
+2024-03-25 20:56:30.755 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-25 20:57:24.524 [info] Getting Manifest... formulahendry.code-runner
+2024-03-25 20:57:24.650 [info] Installing extension: formulahendry.code-runner
+2024-03-25 20:57:25.349 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-03-25 20:57:25.349 [info] Extension signature verification is not done: formulahendry.code-runner
+2024-03-25 20:57:25.473 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/formulahendry.code-runner-0.12.1-universal: formulahendry.code-runner
+2024-03-25 20:57:25.479 [info] Renamed to /home/matt/.vscode-oss/extensions/formulahendry.code-runner-0.12.1-universal
+2024-03-25 20:57:25.480 [info] Extracting extension completed. formulahendry.code-runner
+2024-03-25 20:57:25.487 [info] Extension installed successfully: formulahendry.code-runner
+2024-03-25 20:57:25.528 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-25 20:57:51.819 [info] Getting Manifest... svelte.svelte-vscode
+2024-03-25 20:57:51.945 [info] Installing extension: svelte.svelte-vscode
+2024-03-25 20:57:53.077 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-03-25 20:57:53.077 [info] Extension signature verification is not done: svelte.svelte-vscode
+2024-03-25 20:57:55.401 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/svelte.svelte-vscode-108.3.3-universal: svelte.svelte-vscode
+2024-03-25 20:57:55.413 [info] Renamed to /home/matt/.vscode-oss/extensions/svelte.svelte-vscode-108.3.3-universal
+2024-03-25 20:57:55.415 [info] Extracting extension completed. svelte.svelte-vscode
+2024-03-25 20:57:55.423 [info] Extension installed successfully: svelte.svelte-vscode
+2024-03-25 20:57:55.499 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-25 20:58:11.624 [info] Getting Manifest... ecmel.vscode-html-css
+2024-03-25 20:58:11.766 [info] Installing extension: ecmel.vscode-html-css
+2024-03-25 20:58:12.427 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-03-25 20:58:12.428 [info] Extension signature verification is not done: ecmel.vscode-html-css
+2024-03-25 20:58:12.435 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/ecmel.vscode-html-css-2.0.9-universal: ecmel.vscode-html-css
+2024-03-25 20:58:12.438 [info] Renamed to /home/matt/.vscode-oss/extensions/ecmel.vscode-html-css-2.0.9-universal
+2024-03-25 20:58:12.440 [info] Extracting extension completed. ecmel.vscode-html-css
+2024-03-25 20:58:12.451 [info] Extension installed successfully: ecmel.vscode-html-css
+2024-03-25 20:58:12.521 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-25 20:58:19.987 [info] Getting Manifest... eventyret.bootstrap-4-cdn-snippet
+2024-03-25 20:58:20.130 [info] Installing extension: eventyret.bootstrap-4-cdn-snippet
+2024-03-25 20:58:20.780 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-03-25 20:58:20.781 [info] Extension signature verification is not done: eventyret.bootstrap-4-cdn-snippet
+2024-03-25 20:58:20.798 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/eventyret.bootstrap-4-cdn-snippet-1.13.0-universal: eventyret.bootstrap-4-cdn-snippet
+2024-03-25 20:58:20.803 [info] Renamed to /home/matt/.vscode-oss/extensions/eventyret.bootstrap-4-cdn-snippet-1.13.0-universal
+2024-03-25 20:58:20.806 [info] Extracting extension completed. eventyret.bootstrap-4-cdn-snippet
+2024-03-25 20:58:20.820 [info] Extension installed successfully: eventyret.bootstrap-4-cdn-snippet
+2024-03-25 20:58:20.890 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-25 20:58:26.583 [info] Getting Manifest... yzhang.markdown-all-in-one
+2024-03-25 20:58:26.714 [info] Installing extension: yzhang.markdown-all-in-one
+2024-03-25 20:58:27.379 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-03-25 20:58:27.380 [info] Extension signature verification is not done: yzhang.markdown-all-in-one
+2024-03-25 20:58:27.466 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/yzhang.markdown-all-in-one-3.6.2-universal: yzhang.markdown-all-in-one
+2024-03-25 20:58:27.469 [info] Renamed to /home/matt/.vscode-oss/extensions/yzhang.markdown-all-in-one-3.6.2-universal
+2024-03-25 20:58:27.473 [info] Extracting extension completed. yzhang.markdown-all-in-one
+2024-03-25 20:58:27.483 [info] Extension installed successfully: yzhang.markdown-all-in-one
+2024-03-25 20:58:27.554 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-25 20:58:34.549 [info] Getting Manifest... dracula-theme.theme-dracula
+2024-03-25 20:58:34.671 [info] Installing extension: dracula-theme.theme-dracula
+2024-03-25 20:58:35.268 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-03-25 20:58:35.270 [info] Extension signature verification is not done: dracula-theme.theme-dracula
+2024-03-25 20:58:35.284 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/dracula-theme.theme-dracula-2.24.2-universal: dracula-theme.theme-dracula
+2024-03-25 20:58:35.287 [info] Renamed to /home/matt/.vscode-oss/extensions/dracula-theme.theme-dracula-2.24.2-universal
+2024-03-25 20:58:35.289 [info] Extracting extension completed. dracula-theme.theme-dracula
+2024-03-25 20:58:35.301 [info] Extension installed successfully: dracula-theme.theme-dracula
+2024-03-25 20:58:35.375 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-25 20:59:27.783 [info] Getting Manifest... mtxr.sqltools
+2024-03-25 20:59:27.927 [info] Installing extension: mtxr.sqltools
+2024-03-25 20:59:28.594 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-03-25 20:59:28.595 [info] Extension signature verification is not done: mtxr.sqltools
+2024-03-25 20:59:28.690 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/mtxr.sqltools-0.28.1-universal: mtxr.sqltools
+2024-03-25 20:59:28.696 [info] Renamed to /home/matt/.vscode-oss/extensions/mtxr.sqltools-0.28.1-universal
+2024-03-25 20:59:28.697 [info] Extracting extension completed. mtxr.sqltools
+2024-03-25 20:59:28.705 [info] Extension installed successfully: mtxr.sqltools
+2024-03-25 20:59:28.778 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-25 20:59:54.128 [info] Getting Manifest... ms-vscode.vscode-typescript-next
+2024-03-25 20:59:54.273 [info] Installing extension: ms-vscode.vscode-typescript-next
+2024-03-25 20:59:57.789 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-03-25 20:59:57.790 [info] Extension signature verification is not done: ms-vscode.vscode-typescript-next
+2024-03-25 20:59:58.245 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/ms-vscode.vscode-typescript-next-5.3.20230808-universal: ms-vscode.vscode-typescript-next
+2024-03-25 20:59:58.247 [info] Renamed to /home/matt/.vscode-oss/extensions/ms-vscode.vscode-typescript-next-5.3.20230808-universal
+2024-03-25 20:59:58.249 [info] Extracting extension completed. ms-vscode.vscode-typescript-next
+2024-03-25 20:59:58.261 [info] Extension installed successfully: ms-vscode.vscode-typescript-next
+2024-03-25 20:59:58.337 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-25 21:02:49.017 [info] Getting Manifest... wholroyd.jinja
+2024-03-25 21:02:49.148 [info] Installing extension: wholroyd.jinja
+2024-03-25 21:02:49.855 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-03-25 21:02:49.856 [info] Extension signature verification is not done: wholroyd.jinja
+2024-03-25 21:02:49.867 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/wholroyd.jinja-0.0.8-universal: wholroyd.jinja
+2024-03-25 21:02:49.870 [info] Renamed to /home/matt/.vscode-oss/extensions/wholroyd.jinja-0.0.8-universal
+2024-03-25 21:02:49.872 [info] Extracting extension completed. wholroyd.jinja
+2024-03-25 21:02:49.880 [info] Extension installed successfully: wholroyd.jinja
+2024-03-25 21:02:49.953 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-25 21:03:26.606 [info] Uninstalling extension from the profile: wholroyd.jinja@0.0.8 vscode-userdata:/home/matt/.vscode-oss/extensions/extensions.json
+2024-03-25 21:03:26.652 [info] Marked extension as uninstalled wholroyd.jinja-0.0.8-universal
+2024-03-25 21:03:26.722 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-25 21:03:26.783 [info] Successfully uninstalled extension from the profile wholroyd.jinja@0.0.8 vscode-userdata:/home/matt/.vscode-oss/extensions/extensions.json
+2024-03-25 21:03:50.134 [info] Getting Manifest... wholroyd.jinja
+2024-03-25 21:03:50.256 [info] Installing extension: wholroyd.jinja
+2024-03-25 21:03:50.579 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-03-25 21:03:50.579 [info] Extension signature verification is not done: wholroyd.jinja
+2024-03-25 21:03:50.583 [info] Removed the extension from uninstalled list: wholroyd.jinja
+2024-03-25 21:03:50.631 [info] Extension installed successfully: wholroyd.jinja
+2024-03-25 21:03:50.657 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-25 21:03:56.520 [info] Uninstalling extension from the profile: wholroyd.jinja@0.0.8 vscode-userdata:/home/matt/.vscode-oss/extensions/extensions.json
+2024-03-25 21:03:56.569 [info] Marked extension as uninstalled wholroyd.jinja-0.0.8-universal
+2024-03-25 21:03:56.640 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-25 21:03:56.696 [info] Successfully uninstalled extension from the profile wholroyd.jinja@0.0.8 vscode-userdata:/home/matt/.vscode-oss/extensions/extensions.json

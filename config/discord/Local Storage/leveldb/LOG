@@ -1,0 +1,26 @@
+2024/12/26-16:07:06.733 709 Reusing MANIFEST /home/matt/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/12/26-16:07:06.767 709 Recovering log #1213
+2024/12/26-16:07:06.768 709 Reusing old log /home/matt/.config/discord/Local Storage/leveldb/001213.log 
+2024/12/26-16:10:04.526 70a Level-0 table #1217: started
+2024/12/26-16:10:04.560 70a Level-0 table #1217: 874927 bytes OK
+2024/12/26-16:10:04.566 70a Delete type=0 #1213
+2024/12/26-16:21:07.966 70a Level-0 table #1219: started
+2024/12/26-16:21:07.977 70a Level-0 table #1219: 15372 bytes OK
+2024/12/26-16:21:07.994 70a Delete type=0 #1216
+2024/12/26-16:21:07.995 70a Compacting 4@0 + 2@1 files
+2024/12/26-16:21:08.045 70a Generated table #1220@0: 18 keys, 2445117 bytes
+2024/12/26-16:21:08.079 70a Generated table #1221@0: 62 keys, 873452 bytes
+2024/12/26-16:21:08.079 70a Compacted 4@0 + 2@1 files => 3318569 bytes
+2024/12/26-16:21:08.092 70a compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/12/26-16:21:08.093 70a Delete type=2 #1214
+2024/12/26-16:21:08.093 70a Delete type=2 #1210
+2024/12/26-16:21:08.093 70a Delete type=2 #1219
+2024/12/26-16:21:08.093 70a Delete type=2 #1212
+2024/12/26-16:21:08.093 70a Delete type=2 #1217
+2024/12/26-16:21:08.093 70a Delete type=2 #1209
+2024/12/26-16:41:07.965 709 Level-0 table #1223: started
+2024/12/26-16:41:07.971 709 Level-0 table #1223: 13522 bytes OK
+2024/12/26-16:41:07.975 709 Delete type=0 #1218
+2024/12/26-17:23:07.965 70a Level-0 table #1225: started
+2024/12/26-17:23:07.969 70a Level-0 table #1225: 15876 bytes OK
+2024/12/26-17:23:07.975 70a Delete type=0 #1222

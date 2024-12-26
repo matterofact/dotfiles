@@ -1,0 +1,15 @@
+2024-04-03 20:32:11.505 [info] Deleted uninstalled extension from disk ms-toolsai.jupyter-keymap /home/matt/.vscode-oss/extensions/ms-toolsai.jupyter-keymap-1.1.0-universal
+2024-04-03 20:32:11.506 [info] Deleted uninstalled extension from disk wholroyd.jinja /home/matt/.vscode-oss/extensions/wholroyd.jinja-0.0.8-universal
+2024-04-03 20:32:11.522 [info] Deleted uninstalled extension from disk redhat.vscode-yaml /home/matt/.vscode-oss/extensions/redhat.vscode-yaml-1.12.1-universal
+2024-04-03 20:32:11.523 [info] Deleted uninstalled extension from disk ms-toolsai.jupyter-renderers /home/matt/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.12-universal
+2024-04-03 20:32:11.550 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/ms-toolsai.jupyter-keymap-1.1.0-universal.7a05d706.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/matt/.vscode-oss/extensions/ms-toolsai.jupyter-keymap-1.1.0-universal.7a05d706.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-04-03 20:32:11.552 [info] Deleted uninstalled extension from disk evzen-wybitul.magic-racket /home/matt/.vscode-oss/extensions/evzen-wybitul.magic-racket-0.6.2-universal
+2024-04-03 20:32:11.552 [info] Deleted uninstalled extension from disk ms-azuretools.vscode-docker /home/matt/.vscode-oss/extensions/ms-azuretools.vscode-docker-1.24.0-universal
+2024-04-03 20:32:11.555 [info] Deleted uninstalled extension from disk ms-toolsai.jupyter /home/matt/.vscode-oss/extensions/ms-toolsai.jupyter-2023.3.100-universal
+2024-04-03 20:32:11.631 [info] Deleted uninstalled extension from disk ms-python.python /home/matt/.vscode-oss/extensions/ms-python.python-2023.4.0-universal

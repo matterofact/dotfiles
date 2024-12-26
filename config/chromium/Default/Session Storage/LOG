@@ -1,0 +1,18 @@
+2024/11/26-18:17:41.840 4 Reusing MANIFEST /home/matt/.config/chromium/Default/Session Storage/MANIFEST-000001
+2024/11/26-18:17:41.841 4 Recovering log #12
+2024/11/26-18:17:41.842 4 Reusing old log /home/matt/.config/chromium/Default/Session Storage/000012.log 
+2024/11/26-18:19:46.484 4 Level-0 table #16: started
+2024/11/26-18:19:46.490 4 Level-0 table #16: 24898 bytes OK
+2024/11/26-18:19:46.497 4 Delete type=0 #12
+2024/11/26-18:20:46.483 5 Level-0 table #18: started
+2024/11/26-18:20:46.491 5 Level-0 table #18: 68187 bytes OK
+2024/11/26-18:20:46.495 5 Delete type=0 #15
+2024/11/26-18:20:46.496 5 Compacting 4@0 + 1@1 files
+2024/11/26-18:20:46.507 5 Generated table #19@0: 352 keys, 129063 bytes
+2024/11/26-18:20:46.507 5 Compacted 4@0 + 1@1 files => 129063 bytes
+2024/11/26-18:20:46.510 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/26-18:20:46.511 5 Delete type=2 #18
+2024/11/26-18:20:46.511 5 Delete type=2 #11
+2024/11/26-18:20:46.512 5 Delete type=2 #16
+2024/11/26-18:20:46.512 5 Delete type=2 #13
+2024/11/26-18:20:46.512 5 Delete type=2 #8

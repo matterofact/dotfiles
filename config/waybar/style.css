@@ -13,76 +13,88 @@
     }
 }
 
+*#waybar{
+	background-color: transparent;
+}
+
 * {
     border: none;
     border-radius: 10px;
-    font-family: "hack, monospace";
+    font-family: JetBrainsMonoNF-Regular, monospace;
     font-size: 13px;
     min-height: 0;
     box-shadow: none;
     text-shadow: none;
 }
 
-window#waybar {
+#window {
     background-color: shade(@base, 0.9);
-    border: 2px solid alpha(@crust, 0.3);
+    color: @lavender;
+    border: 2px solid @lavender;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 0px 20px;
 }
 
-#window {
-    font-family: hack, monospace;
-    color: @lavender;
-}
+
 
 #workspaces {
-    background-color: shade(@base, 0.9);
-    padding-left: 6px;
+    margin-right: 1.5px;
+    margin-left: 1.5px;
+    border-radius: 20px;
+    border: 2px solid @lavender;
+    background-color: rgba(17, 17, 27, 1);
+    padding: 0px 20px;
 }
 
 #workspaces button {
     padding: 3px 9px 0px 9px;
     background: transparent;
-    color: #e5e9f0;
+    color: @lavender;
     border-bottom: 3px solid transparent;
-    font-weight: 900;
+    font-weight: 900
 }
 
 #workspaces button.active {
-    color: #eceff4;
-    border-bottom-left-radius: 0px;
-    border-bottom-right-radius: 0px;
-    border-bottom: 3px solid;
-    border-bottom-color: @lavender;
+	color: #d5d8e9;
+	border-radius: 10px;
+	background: rgba(94, 130, 172,0.8);
+	padding: 0px 8px;
 }
 
 #workspaces button:hover {
-    background-color: #5e81ac;
+    background-color: rgba(96, 100, 128,0.8);
 }
 
 #mode {
-    padding: 0px 9px;
+    padding: 0px 8px;
     background-color: #a3be8c;
     color: @lavender;
-    font-family: Noto Sans, sans-serif;
     font-size: 14px;
     font-weight: bold;
 }
 
-#clock, #language, #pulseaudio, #tray, #memory, #cpu, #battery {
+#clock, #pulseaudio, #tray, #memory, #cpu, #network, #battery {
     padding: 0px 8px;
+    margin: 0 5px;
     background-color: shade(@base, 0.9);
+    border: 2px solid @lavender;
+    border-radius: 20px;
     color: @lavender;
     font-size: 14px;
 }
 
+#calendar {
+    background-color: shade(@base, 0.9);
+    color: @lavender;
+}
 
 #language {
     color: #d8dee9;
     font-weight: bold;
 }
 
-#network {
-	color: @lavender;
-}
 
 #pulseaudio {
 	color: @lavender;

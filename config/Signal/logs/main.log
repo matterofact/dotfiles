@@ -1,0 +1,596 @@
+{"level":30,"time":"2024-11-24T19:27:45.663Z","msg":"got fast localeOverride setting null"}
+{"level":30,"time":"2024-11-24T19:27:45.664Z","msg":"app.ready: hour cycle preference: UnknownPreference"}
+{"level":30,"time":"2024-11-24T19:27:45.664Z","msg":"app.ready: preferred system locales: en"}
+{"level":30,"time":"2024-11-24T19:27:45.665Z","msg":"locale: Supported locales: af-ZA, ar, az-AZ, bg-BG, bn-BD, bs-BA, ca, cs, da, de, el, en, es, et-EE, eu, fa-IR, fi, fr, ga-IE, gl-ES, gu-IN, he, hi-IN, hr-HR, hu, id, it, ja, ka-GE, kk-KZ, km-KH, kn-IN, ko, ky-KG, lt-LT, lv-LV, mk-MK, ml-IN, mr-IN, ms, my, nb, nl, pa-IN, pl, pt-BR, pt-PT, ro-RO, ru, sk-SK, sl-SI, sq-AL, sr, sv, sw, ta-IN, te-IN, th, tl-PH, tr, ug, uk-UA, ur, vi, yue, zh-CN, zh-HK, zh-Hant"}
+{"level":30,"time":"2024-11-24T19:27:45.665Z","msg":"locale: Preferred locales: en"}
+{"level":30,"time":"2024-11-24T19:27:45.665Z","msg":"locale: Locale Override: null"}
+{"level":30,"time":"2024-11-24T19:27:45.667Z","msg":"locale: Matched locale: en"}
+{"level":40,"time":"2024-11-24T19:27:45.729Z","msg":"intl.onWarn [@formatjs/intl] \"defaultRichTextElements\" was specified but \"message\" was not pre-compiled. \nPlease consider using \"@formatjs/cli\" to pre-compile your messages for performance.\nFor more details see https://formatjs.io/docs/getting-started/message-distribution"}
+{"level":30,"time":"2024-11-24T19:27:45.730Z","msg":"locale: Text info direction for en: ltr"}
+{"level":30,"time":"2024-11-24T19:27:45.730Z","msg":"getSQLKey: using legacy key"}
+{"level":30,"time":"2024-11-24T19:27:45.731Z","msg":"getSystemTraySetting got value DoNotUseSystemTray"}
+{"level":30,"time":"2024-11-24T19:27:45.731Z","msg":"getSystemTraySetting returning DoNotUseSystemTray"}
+{"level":30,"time":"2024-11-24T19:27:45.733Z","msg":"app ready"}
+{"level":30,"time":"2024-11-24T19:27:45.733Z","msg":"starting version 7.33.0"}
+{"level":30,"time":"2024-11-24T19:27:45.733Z","msg":"media access status [object Undefined] [object Undefined]"}
+{"level":30,"time":"2024-11-24T19:27:45.736Z","msg":"got fast theme-setting value dark"}
+{"level":30,"time":"2024-11-24T19:27:45.748Z","msg":"got fast theme-setting value dark"}
+{"level":30,"time":"2024-11-24T19:27:45.748Z","msg":"got fast spellcheck setting true"}
+{"level":30,"time":"2024-11-24T19:27:45.749Z","msg":"visibleOnAnyScreen(window): x=1287, y=71, width=1251, height=1347"}
+{"level":30,"time":"2024-11-24T19:27:45.749Z","msg":"visibleOnAnyScreen(display #33): x=0, y=0, width=2560, height=1440"}
+{"level":30,"time":"2024-11-24T19:27:45.749Z","msg":"Initializing BrowserWindow config: {\"show\":false,\"width\":1251,\"height\":1347,\"minWidth\":300,\"minHeight\":200,\"autoHideMenuBar\":false,\"titleBarStyle\":\"default\",\"backgroundColor\":\"#121212\",\"webPreferences\":{\"devTools\":false,\"spellcheck\":true,\"enableBlinkFeatures\":\"CSSPseudoDir,CSSLogical\",\"enablePreferredSizeMode\":true,\"nodeIntegration\":false,\"nodeIntegrationInWorker\":false,\"sandbox\":false,\"contextIsolation\":true,\"preload\":\"[REDACTED]/preload.wrapper.js\",\"backgroundThrottling\":true,\"disableBlinkFeatures\":\"Accelerated2dCanvas,AcceleratedSmallCanvases\"},\"icon\":\"[REDACTED]/images/signal-logo-desktop-linux.png\",\"x\":1287,\"y\":71}"}
+{"level":30,"time":"2024-11-24T19:27:45.852Z","msg":"spellcheck: user locales: [\"en\"]"}
+{"level":30,"time":"2024-11-24T19:27:45.852Z","msg":"spellcheck: available spellchecker languages: [\"af\",\"bg\",\"ca\",\"cs\",\"cy\",\"da\",\"de\",\"de-DE\",\"el\",\"en\",\"en-AU\",\"en-CA\",\"en-GB\",\"en-GB-oxendict\",\"en-US\",\"es\",\"es-419\",\"es-AR\",\"es-ES\",\"es-MX\",\"es-US\",\"et\",\"fa\",\"fo\",\"fr\",\"fr-FR\",\"he\",\"hi\",\"hr\",\"hu\",\"hy\",\"id\",\"it\",\"it-IT\",\"ko\",\"lt\",\"lv\",\"nb\",\"nl\",\"pl\",\"pt\",\"pt-BR\",\"pt-PT\",\"ro\",\"ru\",\"sh\",\"sk\",\"sl\",\"sq\",\"sr\",\"sv\",\"ta\",\"tg\",\"tr\",\"uk\",\"vi\"]"}
+{"level":30,"time":"2024-11-24T19:27:45.852Z","msg":"spellcheck: setting languages to: [\"en\"]"}
+{"level":30,"time":"2024-11-24T19:27:45.887Z","msg":"MainSQL: updateSchema:\n  Current user_version: 1240;\n  Most recent db schema: 1250;\n  SQLite version: 3.46.1;\n  SQLCipher version: 4.6.1 community;\n  (deprecated) schema_version: 509;\n"}
+{"level":30,"time":"2024-11-24T19:27:45.893Z","msg":"MainSQL: updateToSchemaVersion1250: success!"}
+{"level":30,"time":"2024-11-24T19:27:45.893Z","msg":"MainSQL: updateSchema: optimize took 1ms"}
+{"level":30,"time":"2024-11-24T19:27:46.670Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T19:27:46.671Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:27:46.676Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:27:46.691Z","msg":"got fast theme-setting value dark"}
+{"level":30,"time":"2024-11-24T19:27:47.456Z","msg":"got fast spellcheck setting true"}
+{"level":30,"time":"2024-11-24T19:27:47.463Z","msg":"System tray service: created"}
+{"level":30,"time":"2024-11-24T19:27:47.463Z","msg":"System tray service: updating main window. Previously, there was not a window, and now there is"}
+{"level":30,"time":"2024-11-24T19:27:47.463Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2024-11-24T19:27:47.463Z","msg":"Begin ensuring permissions"}
+{"level":30,"time":"2024-11-24T19:27:47.464Z","msg":"main window is ready-to-show"}
+{"level":30,"time":"2024-11-24T19:27:47.464Z","msg":"showing main window"}
+{"level":30,"time":"2024-11-24T19:27:47.465Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2024-11-24T19:27:47.466Z","msg":"Ensuring file permissions for 4 files"}
+{"level":30,"time":"2024-11-24T19:27:47.468Z","msg":"Finish ensuring permissions in 4ms"}
+{"level":30,"time":"2024-11-24T19:27:47.529Z","msg":"deleteAllBadges: deleted 0 files"}
+{"level":30,"time":"2024-11-24T19:27:47.547Z","msg":"MainSQL: removeKnownStickers: About to iterate through 219 stickers"}
+{"level":30,"time":"2024-11-24T19:27:47.551Z","msg":"MainSQL: removeKnownStickers: Done processing 219 stickers"}
+{"level":30,"time":"2024-11-24T19:27:47.551Z","msg":"deleteAllStickers: deleted 0 files"}
+{"level":30,"time":"2024-11-24T19:27:47.552Z","msg":"MainSQL: removeKnownDraftAttachments: About to iterate through 17 conversations"}
+{"level":30,"time":"2024-11-24T19:27:47.554Z","msg":"MainSQL: removeKnownDraftAttachments: Done processing 17 conversations"}
+{"level":30,"time":"2024-11-24T19:27:47.554Z","msg":"deleteAllDraftAttachments: deleted 0 files"}
+{"level":30,"time":"2024-11-24T19:27:47.574Z","msg":"cleanupOrphanedAttachments: found 183 attachments on disk"}
+{"level":30,"time":"2024-11-24T19:27:47.575Z","msg":"cleanupOrphanedAttachments: found 0 downloads on disk"}
+{"level":30,"time":"2024-11-24T19:27:47.576Z","msg":"MainSQL: getKnownConversationAttachments: About to iterate through 17"}
+{"level":30,"time":"2024-11-24T19:27:47.577Z","msg":"MainSQL: getKnownConversationAttachments: Done processing"}
+{"level":30,"time":"2024-11-24T19:27:47.577Z","msg":"cleanupOrphanedAttachments: found 9 conversation attachments (1 missing), 175 remain"}
+{"level":30,"time":"2024-11-24T19:27:47.577Z","msg":"cleanupOrphanedAttachments: found 0 downloads (0 missing), 0 remain"}
+{"level":30,"time":"2024-11-24T19:27:47.578Z","msg":"cleanupOrphanedAttachments: took 51ms"}
+{"level":30,"time":"2024-11-24T19:27:47.579Z","msg":"MainSQL: pageMessages(a034812a87359a8c): Starting iteration through 1125 messages"}
+{"level":30,"time":"2024-11-24T19:27:47.676Z","msg":"MainSQL: slow query getKnownMessageAttachments duration=97ms"}
+{"level":30,"time":"2024-11-24T19:27:47.813Z","msg":"MainSQL: slow query getAllKyberPreKeys duration=135ms"}
+{"level":30,"time":"2024-11-24T19:27:47.868Z","msg":"MainSQL: finishPageMessages(a034812a87359a8c): reached the end after processing 1125 messages"}
+{"level":30,"time":"2024-11-24T19:27:47.868Z","msg":"cleanupOrphanedAttachments: found 156 message attachments, (0 missing) 19 remain"}
+{"level":30,"time":"2024-11-24T19:27:47.872Z","msg":"deleteAll: deleted 19 files"}
+{"level":30,"time":"2024-11-24T19:27:47.872Z","msg":"cleanupOrphanedAttachments: found 0 downloads (0 missing) 0 remain"}
+{"level":30,"time":"2024-11-24T19:27:47.872Z","msg":"deleteAllDownloads: deleted 0 files"}
+{"level":30,"time":"2024-11-24T19:27:47.872Z","msg":"deleteOrphanedAttachments: took 294ms"}
+{"level":30,"time":"2024-11-24T19:27:48.012Z","msg":"Prevent display sleep service: allowing display sleep"}
+{"level":30,"time":"2024-11-24T19:27:48.012Z","msg":"Background throttling enabled because no call is active"}
+{"level":30,"time":"2024-11-24T19:27:48.071Z","msg":"MainSQL: getUnprocessedByIdsAndIncrementAttempts { totalIds: 4 }"}
+{"level":30,"time":"2024-11-24T19:27:48.323Z","msg":"MainSQL: getUnprocessedByIdsAndIncrementAttempts { totalIds: 34 }"}
+{"level":30,"time":"2024-11-24T19:27:49.016Z","msg":"MainSQL: slow query getConversationMessageStats duration=116ms"}
+{"level":30,"time":"2024-11-24T19:27:49.025Z","msg":"MainSQL: slow query commitDecryptResult duration=283ms"}
+{"level":30,"time":"2024-11-24T19:27:55.711Z","msg":"MainSQL: slow query saveMessage duration=153ms"}
+{"level":30,"time":"2024-11-24T19:27:56.093Z","msg":"MainSQL: slow query removeSyncTaskById duration=50ms"}
+{"level":30,"time":"2024-11-24T19:28:03.588Z","msg":"MainSQL: slow query removeSyncTaskById duration=168ms"}
+{"level":30,"time":"2024-11-24T19:28:04.699Z","msg":"updater/start: Updates disabled - not starting new version checks"}
+{"level":30,"time":"2024-11-24T19:28:04.700Z","msg":"System tray service: setting unread count to 5"}
+{"level":30,"time":"2024-11-24T19:28:04.700Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2024-11-24T19:28:04.701Z","msg":"App loaded - time: 18970"}
+{"level":30,"time":"2024-11-24T19:28:04.701Z","msg":"SQL init - time: 173"}
+{"level":30,"time":"2024-11-24T19:28:04.701Z","msg":"Preload - time: 720"}
+{"level":30,"time":"2024-11-24T19:28:04.701Z","msg":"WebSocket connect - time: 552"}
+{"level":30,"time":"2024-11-24T19:28:04.701Z","msg":"Processed count: 1119"}
+{"level":30,"time":"2024-11-24T19:28:04.701Z","msg":"Messages per second: 63.22748333144988"}
+{"level":30,"time":"2024-11-24T19:28:04.703Z","msg":"Top 10 queries by cumulative duration (ms) over last 18798ms during 'App Load': saveMessage: cumulative 4150.36 | average: 7.23 | max: 153.07 | count: 574 ||| removeSyncTaskById: cumulative 3070.78 | average: 3.65 | max: 168.13 | count: 841 ||| saveSyncTasks: cumulative 2263.5 | average: 3.91 | max: 16.04 | count: 579 ||| removeUnprocessed: cumulative 1766.51 | average: 4.7 | max: 39.42 | count: 376 ||| saveMessages: cumulative 1496.53 | average: 11.42 | max: 27.05 | count: 131 ||| getUnreadByConversationAndMarkRead: cumulative 625.15 | average: 3.86 | max: 14.99 | count: 162 ||| commitDecryptResult: cumulative 621.23 | average: 14.12 | max: 283.36 | count: 44 ||| updateConversations: cumulative 450.65 | average: 4.65 | max: 9.7 | count: 97 ||| createOrUpdateItem: cumulative 333.01 | average: 4.01 | max: 11.37 | count: 83 ||| getMessagesBySentAt: cumulative 226.29 | average: 0.27 | max: 1.1 | count: 845; Total cumulative duration of all SQL queries during this epoch: 16133.98ms"}
+{"level":30,"time":"2024-11-24T19:29:59.407Z","msg":"MainSQL: getUnprocessedByIdsAndIncrementAttempts { totalIds: 2 }"}
+{"level":40,"time":"2024-11-24T19:30:38.264Z","msg":"OptionalResourceService: loaded emoji-index-en.json from disk"}
+{"level":30,"time":"2024-11-24T19:30:38.644Z","msg":"System tray service: setting unread count to 0"}
+{"level":30,"time":"2024-11-24T19:30:38.645Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2024-11-24T19:31:21.925Z","msg":"MainSQL: slow query commitDecryptResult duration=123ms"}
+{"level":30,"time":"2024-11-24T19:34:41.269Z","msg":"MainSQL: getUnprocessedByIdsAndIncrementAttempts { totalIds: 2 }"}
+{"level":30,"time":"2024-11-24T19:35:02.764Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1326,\"x\":22,\"y\":92}"}
+{"level":30,"time":"2024-11-24T19:35:02.766Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:35:02.773Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:35:06.474Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T19:35:06.475Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:35:06.480Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:36:22.188Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1326,\"x\":22,\"y\":92}"}
+{"level":30,"time":"2024-11-24T19:36:22.188Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:36:22.194Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:36:26.398Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T19:36:26.398Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:36:26.401Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:36:48.291Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1326,\"x\":22,\"y\":92}"}
+{"level":30,"time":"2024-11-24T19:36:48.291Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:36:48.297Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:36:59.076Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T19:36:59.076Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:36:59.080Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:37:10.477Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T19:37:10.477Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:37:10.482Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:37:11.419Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T19:37:11.419Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:37:11.424Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:37:39.678Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T19:37:39.678Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:37:39.683Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:44:47.194Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T19:44:47.194Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:44:47.199Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:45:09.835Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T19:45:09.835Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:45:09.840Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:45:29.450Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T19:45:29.450Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:45:29.455Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:47:04.201Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T19:47:04.201Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:47:04.206Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:47:21.592Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T19:47:21.592Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:47:21.597Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:47:59.028Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1326,\"x\":22,\"y\":92}"}
+{"level":30,"time":"2024-11-24T19:47:59.028Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:47:59.033Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:48:02.947Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T19:48:02.947Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:48:02.952Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:48:05.497Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T19:48:05.497Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:48:05.502Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:48:14.997Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T19:48:14.997Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:48:15.002Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:48:56.153Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T19:48:56.153Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:48:56.158Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:49:08.695Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T19:49:08.695Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:49:08.928Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:49:49.237Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T19:49:49.237Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:49:49.242Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:50:02.656Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1324,\"x\":22,\"y\":94}"}
+{"level":30,"time":"2024-11-24T19:50:02.656Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:50:02.660Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:50:09.695Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T19:50:09.695Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:50:09.702Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:50:11.567Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T19:50:11.567Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:50:11.571Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:50:24.854Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T19:50:24.855Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:50:24.860Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:50:28.683Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T19:50:28.683Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:50:28.688Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:50:44.338Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T19:50:44.338Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:50:44.343Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:50:45.316Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1354,\"x\":22,\"y\":64}"}
+{"level":30,"time":"2024-11-24T19:50:45.317Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:50:45.321Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:51:27.902Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1354,\"x\":22,\"y\":64}"}
+{"level":30,"time":"2024-11-24T19:51:27.902Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:51:27.906Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:51:38.208Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T19:51:38.208Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:51:38.214Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:51:52.914Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T19:51:52.915Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:51:52.919Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:52:23.020Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1346,\"x\":22,\"y\":72}"}
+{"level":30,"time":"2024-11-24T19:52:23.021Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:52:23.025Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:52:32.165Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T19:52:32.165Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:52:32.170Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:52:35.141Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T19:52:35.142Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:52:35.146Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:53:24.220Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T19:53:24.220Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:53:24.224Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:53:39.793Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T19:53:39.793Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:53:39.798Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:53:41.952Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T19:53:41.952Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:53:41.956Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:53:52.621Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T19:53:52.621Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:53:52.626Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:55:20.915Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T19:55:20.915Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:55:20.920Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:55:21.891Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T19:55:21.891Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:55:21.896Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:56:54.096Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T19:56:54.096Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:56:54.100Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:58:47.217Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T19:58:47.217Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:58:47.221Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:59:08.851Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T19:59:08.852Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T19:59:08.856Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:00:18.803Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:00:18.804Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:00:18.808Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:00:38.604Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:00:38.605Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:00:38.610Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:01:16.084Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:01:16.084Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:01:16.089Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:01:17.452Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:01:17.452Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:01:17.456Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:01:44.233Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:01:44.233Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:01:44.238Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:02:39.404Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:02:39.405Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:02:39.409Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:02:40.735Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:02:40.735Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:02:40.740Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:03:16.079Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:03:16.079Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:03:16.083Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:03:43.857Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:03:43.858Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:03:43.862Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:03:45.532Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:03:45.533Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:03:45.537Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:04:23.049Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:04:23.049Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:04:23.052Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:05:57.095Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1360,\"x\":22,\"y\":58}"}
+{"level":30,"time":"2024-11-24T20:05:57.095Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:05:57.191Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:06:06.409Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1354,\"x\":22,\"y\":64}"}
+{"level":30,"time":"2024-11-24T20:06:06.409Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:06:06.413Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:06:16.383Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:06:16.383Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:06:16.388Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:06:19.017Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:06:19.018Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:06:19.022Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:07:26.068Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:07:26.069Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:07:26.074Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:08:09.457Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:08:09.458Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:08:09.463Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:08:24.126Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:08:24.126Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:08:24.132Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:08:28.502Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:08:28.503Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:08:28.507Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:09:52.835Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:09:52.835Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:09:52.840Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:09:56.081Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:09:56.081Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:09:56.086Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:10:18.022Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:10:18.023Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:10:18.027Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:10:32.689Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:10:32.690Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:10:32.695Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:10:49.521Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:10:49.522Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:10:49.526Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:11:49.922Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:11:49.922Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:11:49.927Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:12:10.651Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:12:10.652Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:12:10.656Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:12:38.396Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:12:38.396Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:12:38.400Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:13:25.140Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:13:25.140Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:13:25.144Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:13:40.963Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:13:40.963Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:13:40.968Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:13:42.630Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:13:42.631Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:13:42.635Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:13:56.421Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:13:56.421Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:13:56.426Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:14:22.636Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:14:22.636Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:14:22.640Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:14:23.304Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:14:23.304Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:14:23.434Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:15:18.654Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:15:18.654Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:15:18.658Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:15:19.356Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:15:19.357Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:15:19.361Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:15:32.275Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:15:32.275Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:15:32.280Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:16:08.329Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:16:08.329Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:16:08.334Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:16:16.995Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:16:16.995Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:16:17.000Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:16:33.236Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:16:33.237Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:16:33.241Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:16:36.961Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:16:36.961Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:16:36.966Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:18:49.276Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:18:49.276Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:18:49.281Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:19:02.309Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:19:02.309Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:19:02.314Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:19:26.832Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:19:26.832Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:19:26.837Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:20:01.767Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:20:01.767Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:20:01.772Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:20:42.290Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:20:42.290Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:20:42.295Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:21:01.584Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:21:01.584Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:21:01.618Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:21:25.942Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:21:25.943Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:21:25.947Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:21:26.964Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:21:26.964Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:21:26.969Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:21:48.684Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:21:48.684Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:21:48.689Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:22:16.540Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:22:16.540Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:22:16.545Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:22:18.639Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:22:18.639Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:22:18.644Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:22:48.122Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:22:48.122Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:22:48.127Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:22:48.975Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:22:48.975Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:22:48.980Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:23:25.359Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1351,\"x\":22,\"y\":67}"}
+{"level":30,"time":"2024-11-24T20:23:25.359Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:23:25.364Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:23:33.306Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1361,\"x\":22,\"y\":57}"}
+{"level":30,"time":"2024-11-24T20:23:33.306Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:23:33.311Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:25:39.058Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:25:39.058Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:25:39.062Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:25:39.732Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T20:25:39.733Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:25:39.737Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:25:54.152Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T20:25:54.152Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:25:54.157Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:26:02.112Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T20:26:02.112Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:26:02.117Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:27:10.700Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:27:10.700Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:27:10.706Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:27:22.488Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T20:27:22.488Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:27:22.493Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:27:45.716Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T20:27:45.716Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:27:45.721Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:28:29.404Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T20:28:29.404Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:28:29.408Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:29:13.357Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:29:13.357Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:29:13.362Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:29:14.049Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T20:29:14.049Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:29:14.054Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:29:21.476Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:29:21.476Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:29:21.480Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:29:22.172Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T20:29:22.172Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:29:22.177Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:29:29.618Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T20:29:29.619Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:29:29.623Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:29:39.164Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T20:29:39.164Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:29:39.169Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:37:17.360Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:37:17.360Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:37:17.364Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:37:30.312Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1338,\"x\":22,\"y\":80}"}
+{"level":30,"time":"2024-11-24T20:37:30.312Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:37:30.317Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:37:36.555Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:37:36.555Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:37:36.560Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:38:16.724Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T20:38:16.724Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:38:16.729Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:41:24.553Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T20:41:24.553Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:41:24.558Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:44:10.811Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T20:44:10.811Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:44:10.815Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:45:25.201Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:45:25.201Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:45:25.206Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:45:25.907Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T20:45:25.907Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:45:25.912Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:48:34.878Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:48:34.879Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:48:34.883Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:49:22.754Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T20:49:22.755Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:49:22.759Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:50:23.953Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:50:23.953Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:50:23.958Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:50:31.183Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T20:50:31.184Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:50:31.192Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:51:41.557Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:51:41.557Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:51:41.562Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:52:09.632Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T20:52:09.633Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:52:09.639Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:52:31.213Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":671,\"x\":22,\"y\":747}"}
+{"level":30,"time":"2024-11-24T20:52:31.213Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:52:31.236Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:52:54.631Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":691,\"x\":22,\"y\":727}"}
+{"level":30,"time":"2024-11-24T20:52:54.631Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:52:54.634Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:54:21.957Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":671,\"x\":22,\"y\":747}"}
+{"level":30,"time":"2024-11-24T20:54:21.957Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:54:21.962Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:54:29.415Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T20:54:29.416Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:54:29.420Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:55:01.316Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T20:55:01.316Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:55:01.321Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:55:17.313Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:55:17.314Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:55:17.319Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:55:29.845Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T20:55:29.845Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:55:29.858Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:55:38.130Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:55:38.130Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:55:38.135Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:57:30.611Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T20:57:30.611Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:57:30.616Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:58:33.589Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T20:58:33.589Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:58:33.594Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:58:36.126Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T20:58:36.126Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:58:36.130Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:59:30.678Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T20:59:30.678Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T20:59:30.683Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:00:53.110Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T21:00:53.110Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:00:53.115Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:01:22.385Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T21:01:22.386Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:01:22.390Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:01:42.253Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T21:01:42.254Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:01:42.258Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:02:04.446Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T21:02:04.446Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:02:04.450Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:02:10.769Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T21:02:10.769Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:02:10.774Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:03:18.374Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T21:03:18.374Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:03:18.379Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:03:26.896Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T21:03:26.896Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:03:26.901Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:03:29.408Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T21:03:29.408Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:03:29.413Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:03:38.328Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T21:03:38.328Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:03:38.333Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:03:40.085Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T21:03:40.085Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:03:40.090Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:04:57.843Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T21:04:57.844Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:04:57.848Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:04:59.904Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T21:04:59.905Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:04:59.909Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:06:16.736Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T21:06:16.736Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:06:16.741Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:06:38.700Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T21:06:38.700Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:06:38.704Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:06:39.762Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T21:06:39.762Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:06:39.767Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:06:41.574Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T21:06:41.575Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:06:41.579Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:06:42.735Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T21:06:42.736Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:06:42.740Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:07:16.721Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T21:07:16.721Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:07:16.726Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:08:07.827Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":691,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T21:08:07.827Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:08:07.831Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:08:24.107Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":671,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T21:08:24.107Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:08:24.112Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:08:26.754Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T21:08:26.754Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:08:26.759Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:08:28.631Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":671,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T21:08:28.631Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:08:28.635Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:08:30.311Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T21:08:30.311Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:08:30.315Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:08:37.478Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T21:08:37.478Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:08:37.483Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:09:47.000Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T21:09:47.000Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:09:47.005Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:10:38.883Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T21:10:38.883Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:10:38.889Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:11:01.040Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T21:11:01.040Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:11:01.045Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:11:20.431Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T21:11:20.431Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:11:20.436Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:11:25.746Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T21:11:25.746Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:11:25.751Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:12:24.256Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1356,\"x\":22,\"y\":62}"}
+{"level":30,"time":"2024-11-24T21:12:24.257Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:12:24.262Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:12:27.436Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1251,\"height\":1396,\"x\":22,\"y\":22}"}
+{"level":30,"time":"2024-11-24T21:12:27.436Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-11-24T21:12:27.440Z","msg":"config/set: Saved ephemeral config to disk"}
