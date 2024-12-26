@@ -1,5 +1,0 @@
-2024/06/19-20:31:38.861 1208 Reusing MANIFEST /home/matt/.config/sh.cider.classic/Local Storage/leveldb/MANIFEST-000001
-2024/06/19-20:31:38.880 1208 Recovering log #3
-2024/06/19-20:31:38.882 1208 Reusing old log /home/matt/.config/sh.cider.classic/Local Storage/leveldb/000003.log 
-2024/06/19-20:35:24.227 1208 Level-0 table #5: started
-2024/06/19-20:35:24.302 1208 Level-0 table #5: 2926085 bytes OK
