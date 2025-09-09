@@ -1,15 +1,3 @@
-2024/11/26-18:17:37.977 4 Reusing MANIFEST /home/matt/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2024/11/26-18:17:37.984 4 Recovering log #68
-2024/11/26-18:17:37.985 4 Reusing old log /home/matt/.config/chromium/Default/Local Storage/leveldb/000068.log 
-2024/11/26-18:19:46.483 7 Level-0 table #72: started
-2024/11/26-18:19:46.490 7 Level-0 table #72: 35215 bytes OK
-2024/11/26-18:19:46.497 7 Delete type=0 #68
-2024/11/26-18:19:46.498 7 Compacting 4@0 + 1@1 files
-2024/11/26-18:19:46.507 7 Generated table #73@0: 382 keys, 158264 bytes
-2024/11/26-18:19:46.508 7 Compacted 4@0 + 1@1 files => 158264 bytes
-2024/11/26-18:19:46.513 7 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/11/26-18:19:46.514 7 Delete type=2 #66
-2024/11/26-18:19:46.514 7 Delete type=2 #64
-2024/11/26-18:19:46.515 7 Delete type=2 #72
-2024/11/26-18:19:46.515 7 Delete type=2 #62
-2024/11/26-18:19:46.515 7 Delete type=2 #69
+2025/09/04-19:14:45.831 4 Reusing MANIFEST /home/matt/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2025/09/04-19:14:45.840 4 Recovering log #94
+2025/09/04-19:14:45.841 4 Reusing old log /home/matt/.config/chromium/Default/Local Storage/leveldb/000094.log 

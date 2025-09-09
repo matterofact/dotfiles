@@ -1,0 +1,40 @@
+[General]
+LastUsedVersion=210800
+ThumbnailBarIsVisible=true
+
+[ImageView]
+ThumbnailSplitterSizes=1032,270
+
+[MainWindow]
+MenuBar=Disabled
+
+[Phonon::AudioOutput]
+Gwenview_Volume=1
+
+[Recent Files]
+File1[$e]=/run/user/1000/kio-fuse-ZSYWsB/smb/192.168.0.50/mgnet/Matt Docs/Matty Photos/Google Photos with Metadata/ALL_PHOTOS/2020/05/IMG_20200508_194245.jpg
+File10[$e]=/run/user/1000/kio-fuse-ZSYWsB/smb/192.168.0.50/mgnet/Matt Docs/Matty Photos/Google Photos with Metadata/ALL_PHOTOS/2018/02/_DSC0243.jpg
+File2[$e]=/run/user/1000/kio-fuse-ZSYWsB/smb/192.168.0.50/mgnet/Matt Docs/Matty Photos/Google Photos with Metadata/ALL_PHOTOS/2015/07/20150731_175401.jpg
+File3[$e]=/run/user/1000/kio-fuse-ZSYWsB/smb/192.168.0.50/mgnet/Matt Docs/Matty Photos/Google Photos with Metadata/ALL_PHOTOS/2018/01/20180126_104748.jpg
+File4[$e]=/run/user/1000/kio-fuse-ZSYWsB/smb/192.168.0.50/mgnet/Matt Docs/Matty Photos/Google Photos with Metadata/ALL_PHOTOS/2018/01/20180128_213529.jpg
+File5[$e]=/run/user/1000/kio-fuse-ZSYWsB/smb/192.168.0.50/mgnet/Matt Docs/Matty Photos/Google Photos with Metadata/ALL_PHOTOS/2018/02/_DSC0048.jpg
+File6[$e]=/run/user/1000/kio-fuse-ZSYWsB/smb/192.168.0.50/mgnet/Matt Docs/Matty Photos/Google Photos with Metadata/ALL_PHOTOS/2018/02/_DSC0113.jpg
+File7[$e]=/run/user/1000/kio-fuse-ZSYWsB/smb/192.168.0.50/mgnet/Matt Docs/Matty Photos/Google Photos with Metadata/ALL_PHOTOS/2018/02/_DSC0149.jpg
+File8[$e]=/run/user/1000/kio-fuse-ZSYWsB/smb/192.168.0.50/mgnet/Matt Docs/Matty Photos/Google Photos with Metadata/ALL_PHOTOS/2018/02/_DSC0172.jpg
+File9[$e]=/run/user/1000/kio-fuse-ZSYWsB/smb/192.168.0.50/mgnet/Matt Docs/Matty Photos/Google Photos with Metadata/ALL_PHOTOS/2018/02/_DSC0212.jpg
+Name1[$e]=IMG_20200508_194245.jpg
+Name10[$e]=_DSC0243.jpg
+Name2[$e]=20150731_175401.jpg
+Name3[$e]=20180126_104748.jpg
+Name4[$e]=20180128_213529.jpg
+Name5[$e]=_DSC0048.jpg
+Name6[$e]=_DSC0113.jpg
+Name7[$e]=_DSC0149.jpg
+Name8[$e]=_DSC0172.jpg
+Name9[$e]=_DSC0212.jpg
+
+[SideBar]
+InformationSplitterSizes=207,246
+
+[ThumbnailView]
+ThumbnailSize=140

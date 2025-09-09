@@ -972,6 +972,7 @@
       "sigh",
       "smiley",
       "smoke",
+      "breathe",
       "gasp",
       "groan",
       "relief",
@@ -1017,7 +1018,9 @@
     "shortName": "head_shaking_horizontally",
     "tags": [
       "head shaking horizontally",
-      "no"
+      "head shake",
+      "no",
+      "smh"
     ],
     "rank": 0
   },
@@ -1026,9 +1029,9 @@
     "shortName": "head_shaking_vertically",
     "tags": [
       "head shaking vertically",
-      "yes",
       "nod",
-      "nodding"
+      "nodding",
+      "yes"
     ],
     "rank": 0
   },
@@ -1927,6 +1930,7 @@
       "mad",
       "steam",
       "unhappy",
+      "huff",
       "won"
     ],
     "rank": 102
@@ -2325,7 +2329,8 @@
       "oh",
       "surprised",
       "weary",
-      "weary cat face"
+      "weary cat face",
+      "scared"
     ],
     "rank": 360
   },
@@ -2969,7 +2974,8 @@
     "emoji": "🕳️",
     "shortName": "hole",
     "tags": [
-      "hole"
+      "hole",
+      "pit"
     ],
     "rank": 493
   },
@@ -3104,7 +3110,8 @@
     "tags": [
       "raised back of hand",
       "backhand",
-      "raised"
+      "raised",
+      "handraise"
     ],
     "rank": 331
   },
@@ -3116,7 +3123,8 @@
       "finger",
       "hand",
       "splayed",
-      "stop"
+      "stop",
+      "handraise"
     ],
     "rank": 263
   },
@@ -3129,6 +3137,7 @@
       "high five",
       "raised hand",
       "stop",
+      "handraise",
       "hifive",
       "high 5"
     ],
@@ -4448,6 +4457,7 @@
       "person gesturing no",
       "prohibited",
       "woman gesturing no",
+      "crossed arms",
       "x"
     ],
     "rank": 250
@@ -4464,7 +4474,8 @@
       "nope",
       "not",
       "prohibited",
-      "man",
+      "crossed arms",
+      "male",
       "x"
     ],
     "rank": 0
@@ -4474,12 +4485,15 @@
     "shortName": "woman-gesturing-no",
     "tags": [
       "woman gesturing no",
+      "crossed arms",
+      "female",
       "forbidden",
       "gesture",
       "hand",
       "no",
+      "nope",
+      "not",
       "prohibited",
-      "woman",
       "x"
     ],
     "rank": 0
@@ -4495,7 +4509,8 @@
       "ok",
       "omg",
       "person gesturing ok",
-      "woman gesturing ok"
+      "woman gesturing ok",
+      "ok person"
     ],
     "rank": 369
   },
@@ -4509,8 +4524,7 @@
       "hand",
       "ok",
       "omg",
-      "male",
-      "man"
+      "male"
     ],
     "rank": 0
   },
@@ -4519,11 +4533,12 @@
     "shortName": "woman-gesturing-ok",
     "tags": [
       "woman gesturing ok",
+      "exercise",
       "female",
       "gesture",
       "hand",
       "ok",
-      "woman"
+      "omg"
     ],
     "rank": 0
   },
@@ -4600,6 +4615,7 @@
       "question",
       "raised",
       "woman raising hand",
+      "handraise",
       "hello",
       "hey",
       "hi"
@@ -4619,11 +4635,11 @@
       "person raising hand",
       "question",
       "raised",
+      "handraise",
       "hello",
       "hey",
       "hi",
       "male",
-      "man",
       "raising hand"
     ],
     "rank": 0
@@ -4635,11 +4651,18 @@
       "woman raising hand",
       "female",
       "gesture",
+      "hand",
+      "handraise",
+      "hands",
       "hello",
       "hey",
       "hi",
-      "raising hand",
-      "woman"
+      "i know",
+      "me",
+      "person raising hand",
+      "question",
+      "raised",
+      "raising hand"
     ],
     "rank": 0
   },
@@ -9469,9 +9492,9 @@
     "shortName": "phoenix",
     "tags": [
       "phoenix",
-      "fire",
       "bird",
-      "fawkes"
+      "fawkes",
+      "fire"
     ],
     "rank": 0
   },
@@ -12580,7 +12603,8 @@
       "morning",
       "mountain",
       "sun",
-      "sunrise"
+      "sunrise",
+      "dawn"
     ],
     "rank": 290
   },
@@ -12591,7 +12615,8 @@
       "sunrise",
       "morning",
       "nature",
-      "sun"
+      "sun",
+      "dawn"
     ],
     "rank": 305
   },
@@ -12617,7 +12642,8 @@
       "building",
       "dusk",
       "sun",
-      "sunset"
+      "sunset",
+      "dawn"
     ],
     "rank": 794
   },
@@ -13700,7 +13726,7 @@
     "shortName": "clock12",
     "tags": [
       "clock12",
-      "00",
+      "0",
       "12",
       "12:00",
       "clock",
@@ -13732,7 +13758,7 @@
     "shortName": "clock1",
     "tags": [
       "clock1",
-      "00",
+      "0",
       "1",
       "1:00",
       "clock",
@@ -13764,7 +13790,7 @@
     "shortName": "clock2",
     "tags": [
       "clock2",
-      "00",
+      "0",
       "2",
       "2:00",
       "clock",
@@ -13796,7 +13822,7 @@
     "shortName": "clock3",
     "tags": [
       "clock3",
-      "00",
+      "0",
       "3",
       "3:00",
       "clock",
@@ -13828,7 +13854,7 @@
     "shortName": "clock4",
     "tags": [
       "clock4",
-      "00",
+      "0",
       "4",
       "4:00",
       "clock",
@@ -13860,7 +13886,7 @@
     "shortName": "clock5",
     "tags": [
       "clock5",
-      "00",
+      "0",
       "5",
       "5:00",
       "clock",
@@ -13892,7 +13918,7 @@
     "shortName": "clock6",
     "tags": [
       "clock6",
-      "00",
+      "0",
       "6",
       "6:00",
       "clock",
@@ -13923,7 +13949,7 @@
     "shortName": "clock7",
     "tags": [
       "clock7",
-      "00",
+      "0",
       "7",
       "7:00",
       "clock",
@@ -13953,7 +13979,7 @@
     "shortName": "clock8",
     "tags": [
       "clock8",
-      "00",
+      "0",
       "8",
       "8:00",
       "clock",
@@ -13985,7 +14011,7 @@
     "shortName": "clock9",
     "tags": [
       "clock9",
-      "00",
+      "0",
       "9",
       "9:00",
       "clock",
@@ -14017,7 +14043,7 @@
     "shortName": "clock10",
     "tags": [
       "clock10",
-      "00",
+      "0",
       "10",
       "10:00",
       "clock",
@@ -14048,7 +14074,7 @@
     "shortName": "clock11",
     "tags": [
       "clock11",
-      "00",
+      "0",
       "11",
       "11:00",
       "clock",
@@ -16388,7 +16414,8 @@
       "clothing",
       "necklace",
       "prayer",
-      "religion"
+      "religion",
+      "rosary"
     ],
     "rank": 711
   },
@@ -17250,7 +17277,10 @@
       "closed book",
       "book",
       "closed",
-      "education"
+      "education",
+      "library",
+      "reading",
+      "red"
     ],
     "rank": 739
   },
@@ -17280,7 +17310,8 @@
       "fantasy",
       "green",
       "library",
-      "reading"
+      "reading",
+      "closed"
     ],
     "rank": 1001
   },
@@ -17294,7 +17325,8 @@
       "education",
       "fantasy",
       "library",
-      "reading"
+      "reading",
+      "closed"
     ],
     "rank": 880
   },
@@ -17308,7 +17340,8 @@
       "fantasy",
       "library",
       "orange",
-      "reading"
+      "reading",
+      "closed"
     ],
     "rank": 1008
   },
@@ -17325,7 +17358,8 @@
       "novels",
       "reading",
       "school",
-      "study"
+      "study",
+      "stack"
     ],
     "rank": 313
   },
@@ -18442,9 +18476,9 @@
     "shortName": "broken_chain",
     "tags": [
       "broken chain",
+      "break",
       "link",
-      "snap",
-      "break"
+      "snap"
     ],
     "rank": 0
   },
@@ -21559,7 +21593,8 @@
     "tags": [
       "large green square",
       "green",
-      "square"
+      "square",
+      "brat"
     ],
     "rank": 0
   },
@@ -24363,7 +24398,8 @@
     "tags": [
       "flag va",
       "flag",
-      "vatican city"
+      "vatican city",
+      "catholic"
     ],
     "rank": 1406
   },

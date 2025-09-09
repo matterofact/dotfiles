@@ -1,5 +1,5 @@
 [Plugins]
-baloosearchEnabled=true
+baloosearchEnabled=false
 browserhistoryEnabled=false
 browsertabsEnabled=false
 helprunnerEnabled=false

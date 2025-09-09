@@ -1,0 +1,11 @@
+2025-03-02 17:40:24.836 [info] [main] Log level: Info
+2025-03-02 17:40:24.836 [info] [main] Validating found git in: "git"
+2025-03-02 17:40:24.836 [info] [main] Using git "2.48.1" from "git"
+2025-03-02 17:40:24.836 [info] [Model][doInitialScan] Initial repository scan started
+2025-03-02 17:40:24.836 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-02 17:40:24.836 [info] > git rev-parse --show-toplevel [31ms]
+2025-03-02 17:40:24.837 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (1), unsafe repositories (0)
+2025-03-02 17:40:24.843 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-02 17:40:24.881 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-02 17:40:25.769 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-02 17:40:26.400 [info] > git rev-parse --show-toplevel [1ms]

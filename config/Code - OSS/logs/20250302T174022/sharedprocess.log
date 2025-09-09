@@ -1,0 +1,89 @@
+2025-03-02 17:40:27.856 [info] Getting Manifest... ecmel.vscode-html-css
+2025-03-02 17:40:27.857 [info] Getting Manifest... golang.go
+2025-03-02 17:40:27.858 [info] Getting Manifest... ms-azuretools.vscode-docker
+2025-03-02 17:40:27.859 [info] Getting Manifest... ms-python.debugpy
+2025-03-02 17:40:27.860 [info] Getting Manifest... ms-python.python
+2025-03-02 17:40:27.860 [info] Getting Manifest... ms-toolsai.jupyter
+2025-03-02 17:40:27.860 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2025-03-02 17:40:27.861 [info] Getting Manifest... ms-vscode.powershell
+2025-03-02 17:40:27.861 [info] Getting Manifest... mtxr.sqltools
+2025-03-02 17:40:27.862 [info] Getting Manifest... redhat.vscode-yaml
+2025-03-02 17:40:27.862 [info] Getting Manifest... svelte.svelte-vscode
+2025-03-02 17:40:28.333 [info] Installing extension: ecmel.vscode-html-css {"productVersion":{"version":"1.97.2","date":"2025-02-13T18:45:48.570Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matt/.vscode-oss/extensions/extensions.json","path":"/home/matt/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-03-02 17:40:28.343 [info] Installing extension: ms-python.debugpy {"productVersion":{"version":"1.97.2","date":"2025-02-13T18:45:48.570Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matt/.vscode-oss/extensions/extensions.json","path":"/home/matt/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-03-02 17:40:28.357 [info] Installing extension: redhat.vscode-yaml {"productVersion":{"version":"1.97.2","date":"2025-02-13T18:45:48.570Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matt/.vscode-oss/extensions/extensions.json","path":"/home/matt/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-03-02 17:40:28.365 [info] Installing extension: ms-toolsai.jupyter-renderers {"productVersion":{"version":"1.97.2","date":"2025-02-13T18:45:48.570Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matt/.vscode-oss/extensions/extensions.json","path":"/home/matt/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-03-02 17:40:28.383 [info] Installing extension: mtxr.sqltools {"productVersion":{"version":"1.97.2","date":"2025-02-13T18:45:48.570Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matt/.vscode-oss/extensions/extensions.json","path":"/home/matt/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-03-02 17:40:28.393 [info] Installing extension: ms-python.python {"productVersion":{"version":"1.97.2","date":"2025-02-13T18:45:48.570Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matt/.vscode-oss/extensions/extensions.json","path":"/home/matt/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-03-02 17:40:28.417 [info] Installing extension: golang.go {"productVersion":{"version":"1.97.2","date":"2025-02-13T18:45:48.570Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matt/.vscode-oss/extensions/extensions.json","path":"/home/matt/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-03-02 17:40:28.418 [info] Installing extension: ms-azuretools.vscode-docker {"productVersion":{"version":"1.97.2","date":"2025-02-13T18:45:48.570Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matt/.vscode-oss/extensions/extensions.json","path":"/home/matt/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-03-02 17:40:28.419 [info] Installing extension: ms-toolsai.jupyter {"productVersion":{"version":"1.97.2","date":"2025-02-13T18:45:48.570Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matt/.vscode-oss/extensions/extensions.json","path":"/home/matt/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-03-02 17:40:28.419 [info] Installing extension: svelte.svelte-vscode {"productVersion":{"version":"1.97.2","date":"2025-02-13T18:45:48.570Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matt/.vscode-oss/extensions/extensions.json","path":"/home/matt/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-03-02 17:40:28.422 [info] Installing extension: ms-vscode.powershell {"productVersion":{"version":"1.97.2","date":"2025-02-13T18:45:48.570Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/matt/.vscode-oss/extensions/extensions.json","path":"/home/matt/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-03-02 17:40:28.465 [info] Getting Manifest... ms-python.python
+2025-03-02 17:40:28.802 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2025-03-02 17:40:28.802 [info] Extension signature verification is not done: ecmel.vscode-html-css
+2025-03-02 17:40:28.812 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/ecmel.vscode-html-css-2.0.13-universal: ecmel.vscode-html-css
+2025-03-02 17:40:28.816 [info] Renamed to /home/matt/.vscode-oss/extensions/ecmel.vscode-html-css-2.0.13-universal
+2025-03-02 17:40:28.826 [info] Marked extension as removed ecmel.vscode-html-css-2.0.11-universal
+2025-03-02 17:40:28.831 [info] Extension installed successfully: ecmel.vscode-html-css vscode-userdata:/home/matt/.vscode-oss/extensions/extensions.json
+2025-03-02 17:40:29.313 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2025-03-02 17:40:29.313 [info] Extension signature verification is not done: mtxr.sqltools
+2025-03-02 17:40:29.323 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2025-03-02 17:40:29.324 [info] Extension signature verification is not done: redhat.vscode-yaml
+2025-03-02 17:40:29.348 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2025-03-02 17:40:29.349 [info] Extension signature verification is not done: ms-azuretools.vscode-docker
+2025-03-02 17:40:29.361 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2025-03-02 17:40:29.361 [info] Extension signature verification is not done: golang.go
+2025-03-02 17:40:29.422 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/redhat.vscode-yaml-1.16.0-universal: redhat.vscode-yaml
+2025-03-02 17:40:29.431 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/mtxr.sqltools-0.28.4-universal: mtxr.sqltools
+2025-03-02 17:40:29.449 [info] Renamed to /home/matt/.vscode-oss/extensions/mtxr.sqltools-0.28.4-universal
+2025-03-02 17:40:29.449 [info] Renamed to /home/matt/.vscode-oss/extensions/redhat.vscode-yaml-1.16.0-universal
+2025-03-02 17:40:29.453 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2025-03-02 17:40:29.453 [info] Extension signature verification is not done: ms-toolsai.jupyter-renderers
+2025-03-02 17:40:29.456 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2025-03-02 17:40:29.456 [info] Extension signature verification is not done: ms-python.python
+2025-03-02 17:40:29.465 [info] Marked extension as removed redhat.vscode-yaml-1.15.0-universal
+2025-03-02 17:40:29.474 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/golang.go-0.44.0-universal: golang.go
+2025-03-02 17:40:29.481 [info] Marked extension as removed mtxr.sqltools-0.28.3-universal
+2025-03-02 17:40:29.484 [info] Extension installed successfully: redhat.vscode-yaml vscode-userdata:/home/matt/.vscode-oss/extensions/extensions.json
+2025-03-02 17:40:29.487 [info] Extension installed successfully: mtxr.sqltools vscode-userdata:/home/matt/.vscode-oss/extensions/extensions.json
+2025-03-02 17:40:29.493 [info] Renamed to /home/matt/.vscode-oss/extensions/golang.go-0.44.0-universal
+2025-03-02 17:40:29.516 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2025-03-02 17:40:29.516 [info] Extension signature verification is not done: svelte.svelte-vscode
+2025-03-02 17:40:29.516 [info] Marked extension as removed golang.go-0.42.1-universal
+2025-03-02 17:40:29.518 [info] Extension installed successfully: golang.go vscode-userdata:/home/matt/.vscode-oss/extensions/extensions.json
+2025-03-02 17:40:29.538 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/ms-azuretools.vscode-docker-1.29.4-universal: ms-azuretools.vscode-docker
+2025-03-02 17:40:29.549 [info] Renamed to /home/matt/.vscode-oss/extensions/ms-azuretools.vscode-docker-1.29.4-universal
+2025-03-02 17:40:29.571 [info] Extension installed successfully: ms-azuretools.vscode-docker vscode-userdata:/home/matt/.vscode-oss/extensions/extensions.json
+2025-03-02 17:40:29.571 [info] Marked extension as removed ms-azuretools.vscode-docker-1.29.3-universal
+2025-03-02 17:40:29.684 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2025-03-02 17:40:29.684 [info] Extension signature verification is not done: ms-toolsai.jupyter
+2025-03-02 17:40:29.808 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.1.0-universal: ms-toolsai.jupyter-renderers
+2025-03-02 17:40:29.817 [info] Renamed to /home/matt/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.1.0-universal
+2025-03-02 17:40:29.831 [info] Marked extension as removed ms-toolsai.jupyter-renderers-1.0.21-universal
+2025-03-02 17:40:29.833 [info] Extension installed successfully: ms-toolsai.jupyter-renderers vscode-userdata:/home/matt/.vscode-oss/extensions/extensions.json
+2025-03-02 17:40:29.834 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2025-03-02 17:40:29.834 [info] Extension signature verification is not done: ms-vscode.powershell
+2025-03-02 17:40:30.172 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/ms-toolsai.jupyter-2025.1.0-universal: ms-toolsai.jupyter
+2025-03-02 17:40:30.187 [info] Renamed to /home/matt/.vscode-oss/extensions/ms-toolsai.jupyter-2025.1.0-universal
+2025-03-02 17:40:30.212 [info] Marked extension as removed ms-toolsai.jupyter-2024.10.0-universal
+2025-03-02 17:40:30.214 [info] Extension installed successfully: ms-toolsai.jupyter vscode-userdata:/home/matt/.vscode-oss/extensions/extensions.json
+2025-03-02 17:40:30.844 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/ms-python.python-2025.0.0-universal: ms-python.python
+2025-03-02 17:40:30.896 [info] Renamed to /home/matt/.vscode-oss/extensions/ms-python.python-2025.0.0-universal
+2025-03-02 17:40:30.915 [info] Marked extension as removed ms-python.python-2024.20.0-universal
+2025-03-02 17:40:30.919 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/matt/.vscode-oss/extensions/extensions.json
+2025-03-02 17:40:31.404 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/ms-vscode.powershell-2025.0.0-universal: ms-vscode.powershell
+2025-03-02 17:40:31.414 [info] Renamed to /home/matt/.vscode-oss/extensions/ms-vscode.powershell-2025.0.0-universal
+2025-03-02 17:40:31.429 [info] Marked extension as removed ms-vscode.powershell-2024.4.0-universal
+2025-03-02 17:40:31.435 [info] Extension installed successfully: ms-vscode.powershell vscode-userdata:/home/matt/.vscode-oss/extensions/extensions.json
+2025-03-02 17:40:31.447 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2025-03-02 17:40:31.447 [info] Extension signature verification is not done: ms-python.debugpy
+2025-03-02 17:40:31.457 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/svelte.svelte-vscode-109.5.2-universal: svelte.svelte-vscode
+2025-03-02 17:40:31.509 [info] Renamed to /home/matt/.vscode-oss/extensions/svelte.svelte-vscode-109.5.2-universal
+2025-03-02 17:40:31.522 [info] Marked extension as removed svelte.svelte-vscode-109.3.2-universal
+2025-03-02 17:40:31.526 [info] Extension installed successfully: svelte.svelte-vscode vscode-userdata:/home/matt/.vscode-oss/extensions/extensions.json
+2025-03-02 17:40:31.766 [info] Extracted extension to file:///home/matt/.vscode-oss/extensions/ms-python.debugpy-2025.0.1-linux-x64: ms-python.debugpy
+2025-03-02 17:40:31.775 [info] Renamed to /home/matt/.vscode-oss/extensions/ms-python.debugpy-2025.0.1-linux-x64
+2025-03-02 17:40:31.788 [info] Marked extension as removed ms-python.debugpy-2024.12.0-linux-x64
+2025-03-02 17:40:31.794 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/matt/.vscode-oss/extensions/extensions.json

@@ -1,0 +1,26 @@
+2025-03-02 17:38:29.934 [info] Marked extension as removed dracula-theme.theme-dracula-2.24.2-universal
+2025-03-02 17:38:29.934 [info] Marked extension as removed ecmel.vscode-html-css-2.0.9-universal
+2025-03-02 17:38:29.934 [info] Marked extension as removed evzen-wybitul.magic-racket-0.6.6-universal
+2025-03-02 17:38:29.934 [info] Marked extension as removed formulahendry.code-runner-0.12.1-universal
+2025-03-02 17:38:29.934 [info] Marked extension as removed golang.go-0.41.2-universal
+2025-03-02 17:38:29.935 [info] Marked extension as removed ms-azuretools.vscode-docker-1.29.0-universal
+2025-03-02 17:38:29.935 [info] Marked extension as removed ms-python.debugpy-2024.2.0-linux-x64
+2025-03-02 17:38:29.935 [info] Marked extension as removed ms-python.python-2024.2.1-universal
+2025-03-02 17:38:29.935 [info] Marked extension as removed ms-toolsai.jupyter-2023.9.100-universal
+2025-03-02 17:38:29.935 [info] Marked extension as removed ms-toolsai.jupyter-renderers-1.0.17-universal
+2025-03-02 17:38:29.935 [info] Marked extension as removed mtxr.sqltools-0.28.1-universal
+2025-03-02 17:38:29.935 [info] Marked extension as removed redhat.vscode-yaml-1.14.0-universal
+2025-03-02 17:38:29.935 [info] Marked extension as removed svelte.svelte-vscode-108.3.3-universal
+2025-03-02 17:38:29.985 [info] Deleted marked for removal extension from disk dracula-theme.theme-dracula /home/matt/.vscode-oss/extensions/dracula-theme.theme-dracula-2.24.2-universal
+2025-03-02 17:38:29.985 [info] Deleted marked for removal extension from disk ecmel.vscode-html-css /home/matt/.vscode-oss/extensions/ecmel.vscode-html-css-2.0.9-universal
+2025-03-02 17:38:29.987 [info] Deleted marked for removal extension from disk golang.go /home/matt/.vscode-oss/extensions/golang.go-0.41.2-universal
+2025-03-02 17:38:30.023 [info] Deleted marked for removal extension from disk evzen-wybitul.magic-racket /home/matt/.vscode-oss/extensions/evzen-wybitul.magic-racket-0.6.6-universal
+2025-03-02 17:38:30.033 [info] Deleted marked for removal extension from disk mtxr.sqltools /home/matt/.vscode-oss/extensions/mtxr.sqltools-0.28.1-universal
+2025-03-02 17:38:30.033 [info] Deleted marked for removal extension from disk redhat.vscode-yaml /home/matt/.vscode-oss/extensions/redhat.vscode-yaml-1.14.0-universal
+2025-03-02 17:38:30.113 [info] Deleted marked for removal extension from disk formulahendry.code-runner /home/matt/.vscode-oss/extensions/formulahendry.code-runner-0.12.1-universal
+2025-03-02 17:38:30.114 [info] Deleted marked for removal extension from disk ms-azuretools.vscode-docker /home/matt/.vscode-oss/extensions/ms-azuretools.vscode-docker-1.29.0-universal
+2025-03-02 17:38:30.114 [info] Deleted marked for removal extension from disk ms-toolsai.jupyter /home/matt/.vscode-oss/extensions/ms-toolsai.jupyter-2023.9.100-universal
+2025-03-02 17:38:30.117 [info] Deleted marked for removal extension from disk ms-toolsai.jupyter-renderers /home/matt/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.17-universal
+2025-03-02 17:38:30.201 [info] Deleted marked for removal extension from disk svelte.svelte-vscode /home/matt/.vscode-oss/extensions/svelte.svelte-vscode-108.3.3-universal
+2025-03-02 17:38:30.217 [info] Deleted marked for removal extension from disk ms-python.debugpy /home/matt/.vscode-oss/extensions/ms-python.debugpy-2024.2.0-linux-x64
+2025-03-02 17:38:30.219 [info] Deleted marked for removal extension from disk ms-python.python /home/matt/.vscode-oss/extensions/ms-python.python-2024.2.1-universal

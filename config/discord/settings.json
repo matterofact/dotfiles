@@ -7,5 +7,8 @@
     "width": 1261,
     "height": 1376
   },
-  "chromiumSwitches": {}
+  "chromiumSwitches": {},
+  "BACKGROUND_COLOR": "#121214",
+  "offloadAdmControls": false,
+  "SKIP_HOST_UPDATE": true
 }

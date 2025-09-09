@@ -4,9 +4,7 @@
         "workspaces": {
             "file:///home/matt/Programming/CS50/Week%202/lab%202/scrabble": "__default__profile__"
         },
-        "emptyWindows": {
-            "1711400116188": "__default__profile__"
-        }
+        "emptyWindows": {}
     },
     "profileAssociationsMigration": true,
     "telemetry.sqmId": "",
@@ -18,11 +16,7 @@
                 "folderUri": "file:///home/matt/Programming/CS50/Week%202/lab%202/scrabble"
             }
         ],
-        "emptyWindows": [
-            {
-                "backupFolder": "1711400116188"
-            }
-        ]
+        "emptyWindows": []
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -730,6 +724,17 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
+                        "id": "workbench.panel.chat",
+                        "label": "&&Chat"
+                    },
+                    {
+                        "id": "workbench.panel.chatEditing",
+                        "label": "Copilot Ed&&its"
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
                         "id": "workbench.actions.view.problems",
                         "label": "&&Problems"
                     },
@@ -758,7 +763,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -767,7 +773,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1457,6 +1464,14 @@
                 "label": "Ctrl+Shift+D",
                 "userSettingsLabel": "ctrl+shift+d"
             },
+            "workbench.panel.chat": {
+                "label": "Ctrl+Alt+I",
+                "userSettingsLabel": "ctrl+alt+i"
+            },
+            "workbench.panel.chatEditing": {
+                "label": "Ctrl+Shift+Alt+I",
+                "userSettingsLabel": "ctrl+shift+alt+i"
+            },
             "workbench.actions.view.problems": {
                 "label": "Ctrl+Shift+M",
                 "userSettingsLabel": "ctrl+shift+m"
@@ -1477,6 +1492,10 @@
             "editor.action.toggleWordWrap": {
                 "label": "Alt+Z",
                 "userSettingsLabel": "alt+z"
+            },
+            "workbench.action.navigateBack": {
+                "label": "BrowserBack",
+                "userSettingsLabel": "browserback"
             },
             "workbench.action.navigateForward": {
                 "label": "Ctrl+Shift+-",
@@ -1675,9 +1694,10 @@
         "layoutInfo": {
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
-            "titleBarHeight": 0,
+            "titleBarHeight": 35,
             "activityBarWidth": 48,
             "sideBarWidth": 170,
+            "auxiliarySideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
@@ -1687,14 +1707,15 @@
             "folder": "file:///home/matt/Programming/CS50/Week%202/lab%202/scrabble",
             "backupPath": "/home/matt/.config/Code - OSS/Backups/de8b5f8d97ff6b0e8a8d349dd113da5a",
             "uiState": {
-                "mode": 0,
-                "x": 632,
-                "y": 28,
-                "width": 1276,
-                "height": 901
+                "mode": 1,
+                "x": 12,
+                "y": 52,
+                "width": 2536,
+                "height": 1376
             }
         },
         "openedWindows": []
     },
-    "telemetry.devDeviceId": "75d8ce2e-80fc-404f-8f68-41af4c5ce150"
+    "telemetry.devDeviceId": "12395d64-2054-43ed-88c3-34e5f2c0afbd",
+    "windowControlHeight": 35
 }
