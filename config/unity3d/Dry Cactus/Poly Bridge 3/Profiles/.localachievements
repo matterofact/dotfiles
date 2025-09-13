@@ -1,0 +1,80 @@
+{
+    "$id": 0,
+    "$type": "0|GameAchievementsProxy, Assembly-CSharp",
+    "m_LocalAchievementIDsUnlockedList": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib],[System.DateTime, mscorlib]], mscorlib",
+        "comparer": {
+            "$id": 2,
+            "$type": "2|System.Collections.Generic.GenericEqualityComparer`1[[System.Int32, mscorlib]], mscorlib"
+        },
+        "$rlength": 6,
+        "$rcontent": [
+            {
+                "$k": 22,
+                "$v": {
+                    "$type": "3|System.DateTime, mscorlib",
+                    -8584648024116406128
+                }
+            },
+            {
+                "$k": 20,
+                "$v": {
+                    "$type": 3,
+                    -8584647996914235268
+                }
+            },
+            {
+                "$k": 21,
+                "$v": {
+                    "$type": 3,
+                    -8584647979059559438
+                }
+            },
+            {
+                "$k": 12,
+                "$v": {
+                    "$type": 3,
+                    -8584645555420611058
+                }
+            },
+            {
+                "$k": 13,
+                "$v": {
+                    "$type": 3,
+                    -8584619572262273318
+                }
+            },
+            {
+                "$k": 23,
+                "$v": {
+                    "$type": 3,
+                    -8584619557589463438
+                }
+            }
+        ]
+    },
+    "m_LocalAchievementStats": {
+        "$id": 3,
+        "$type": "4|System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Int32, mscorlib]], mscorlib",
+        "comparer": {
+            "$id": 4,
+            "$type": "5|System.Collections.Generic.GenericEqualityComparer`1[[System.String, mscorlib]], mscorlib"
+        },
+        "$rlength": 3,
+        "$rcontent": [
+            {
+                "$k": "BeatWorld_CR_Stat",
+                "$v": 8
+            },
+            {
+                "$k": "BeatWorld_MM_Stat",
+                "$v": 5
+            },
+            {
+                "$k": "BeatWorld_RB_Stat",
+                "$v": 13
+            }
+        ]
+    }
+}

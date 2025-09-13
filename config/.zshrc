@@ -56,3 +56,12 @@ alias vim='nvim'
 
 # Shell Integrations
 eval "$(fzf --zsh)"
+
+# Return to last navigated to dir in lf
+
+lfcd () {
+    # `command` is needed in case `lfcd` is aliased to `lf`
+    cd "$(command lf -print-last-dir "$@")"
+}
+alias lf='lfcd'
+

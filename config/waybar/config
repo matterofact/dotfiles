@@ -1,13 +1,13 @@
 {
 	"layer": "top",
 	"position": "top",
-	"margin": "5 10 5",
+	"margin": "0 0 0",
 	"mod": "dock",
 	"exclusive": true,
 	"passthrough": false,
 	"gtk-layer-shell": true,
 	"height": 30,
-	"modules-left": ["hyprland/workspaces", "hyprland/window"],
+	"modules-left": ["sway/workspaces", "sway/window"],
 	"modules-center": [],
 	"modules-right": [
 		"tray",
@@ -18,10 +18,11 @@
 		"clock"
 	],
 	"include": [],
-	"hyprland/window": {
+	"sway/window": {
 		"format": "{}"
 	},
-	"hyprland/workspaces": {
+	"sway/workspaces": {
+		"disable-scroll": true,
 		"all-outputs": true,
 		//"persistent-workspaces": {
 		//	"*": 3

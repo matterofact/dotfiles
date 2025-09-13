@@ -13,8 +13,9 @@
     }
 }
 
-*#waybar{
-	background-color: transparent;
+*#waybar {
+	background-color: shade(@base, 0.9);
+	border-radius: 10px;
 }
 
 * {
@@ -30,8 +31,6 @@
 #window {
     background-color: shade(@base, 0.9);
     color: @lavender;
-    border: 2px solid @lavender;
-    border-radius: 20px;
     margin-left: 20px;
     margin-right: 20px;
     padding: 0px 20px;
@@ -42,10 +41,8 @@
 #workspaces {
     margin-right: 1.5px;
     margin-left: 1.5px;
-    border-radius: 20px;
-    border: 2px solid @lavender;
-    background-color: rgba(17, 17, 27, 1);
-    padding: 0px 20px;
+    background-color: shade(@base, 0.9);
+    padding: 0px 0px;
 }
 
 #workspaces button {
@@ -56,10 +53,10 @@
     font-weight: 900
 }
 
-#workspaces button.active {
+#workspaces button.focused {
 	color: #d5d8e9;
-	border-radius: 10px;
-	background: rgba(94, 130, 172,0.8);
+	border-radius: 0px;
+	background-color: rgba(94, 130, 172,0.8);
 	padding: 0px 8px;
 }
 
@@ -79,8 +76,6 @@
     padding: 0px 8px;
     margin: 0 5px;
     background-color: shade(@base, 0.9);
-    border: 2px solid @lavender;
-    border-radius: 20px;
     color: @lavender;
     font-size: 14px;
 }

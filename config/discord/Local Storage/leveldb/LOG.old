@@ -1,52 +1,23 @@
-2025/09/07-19:59:54.450 669 Reusing MANIFEST /home/matt/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2025/09/07-19:59:54.478 669 Recovering log #4259
-2025/09/07-19:59:54.479 669 Reusing old log /home/matt/.config/discord/Local Storage/leveldb/004259.log 
-2025/09/07-20:00:55.308 66a Level-0 table #4263: started
-2025/09/07-20:00:58.147 66a Level-0 table #4263: 39246 bytes OK
-2025/09/07-20:00:58.151 66a Delete type=0 #4259
-2025/09/07-20:04:19.423 66a Level-0 table #4265: started
-2025/09/07-20:04:19.441 66a Level-0 table #4265: 1623057 bytes OK
-2025/09/07-20:04:19.445 66a Delete type=0 #4262
-2025/09/07-20:04:19.446 66a Compacting 4@0 + 2@1 files
-2025/09/07-20:04:19.463 66a Generated table #4266@0: 84 keys, 2574230 bytes
-2025/09/07-20:04:19.495 66a Generated table #4267@0: 128 keys, 4113760 bytes
-2025/09/07-20:04:19.495 66a Compacted 4@0 + 2@1 files => 6687990 bytes
-2025/09/07-20:04:19.498 66a compacted to: files[ 0 3 1 0 0 0 0 ]
-2025/09/07-20:04:19.498 66a Delete type=2 #4263
-2025/09/07-20:04:19.498 66a Delete type=2 #4258
-2025/09/07-20:04:19.498 66a Delete type=2 #4255
-2025/09/07-20:04:19.498 66a Delete type=2 #4256
-2025/09/07-20:04:19.498 66a Delete type=2 #4265
-2025/09/07-20:04:19.498 66a Delete type=2 #4260
-2025/09/07-20:06:55.303 66a Level-0 table #4269: started
-2025/09/07-20:06:55.306 66a Level-0 table #4269: 11302 bytes OK
-2025/09/07-20:06:55.309 66a Delete type=0 #4264
-2025/09/07-20:31:55.303 669 Level-0 table #4271: started
-2025/09/07-20:31:55.308 669 Level-0 table #4271: 17844 bytes OK
-2025/09/07-20:31:55.314 669 Delete type=0 #4268
-2025/09/07-20:57:55.303 66a Level-0 table #4273: started
-2025/09/07-20:57:55.308 66a Level-0 table #4273: 16553 bytes OK
-2025/09/07-20:57:55.313 66a Delete type=0 #4270
-2025/09/07-21:24:55.303 66a Level-0 table #4275: started
-2025/09/07-21:24:55.307 66a Level-0 table #4275: 16661 bytes OK
-2025/09/07-21:24:55.315 66a Delete type=0 #4272
-2025/09/07-21:24:55.315 66a Compacting 4@0 + 2@1 files
-2025/09/07-21:24:55.338 66a Generated table #4276@0: 84 keys, 2574232 bytes
-2025/09/07-21:24:55.375 66a Generated table #4277@0: 128 keys, 4113769 bytes
-2025/09/07-21:24:55.375 66a Compacted 4@0 + 2@1 files => 6688001 bytes
-2025/09/07-21:24:55.378 66a compacted to: files[ 0 3 1 0 0 0 0 ]
-2025/09/07-21:24:55.378 66a Delete type=2 #4275
-2025/09/07-21:24:55.378 66a Delete type=2 #4266
-2025/09/07-21:24:55.378 66a Delete type=2 #4269
-2025/09/07-21:24:55.378 66a Delete type=2 #4267
-2025/09/07-21:24:55.378 66a Delete type=2 #4273
-2025/09/07-21:24:55.378 66a Delete type=2 #4271
-2025/09/07-21:37:55.303 66a Level-0 table #4279: started
-2025/09/07-21:37:55.308 66a Level-0 table #4279: 39632 bytes OK
-2025/09/07-21:37:55.311 66a Delete type=0 #4274
-2025/09/07-21:38:55.303 66a Level-0 table #4281: started
-2025/09/07-21:38:55.306 66a Level-0 table #4281: 13069 bytes OK
-2025/09/07-21:38:55.309 66a Delete type=0 #4278
-2025/09/07-21:40:55.302 66a Level-0 table #4283: started
-2025/09/07-21:40:55.306 66a Level-0 table #4283: 19832 bytes OK
-2025/09/07-21:40:55.309 66a Delete type=0 #4280
+2025/09/13-19:23:01.519 7f5c Reusing MANIFEST /home/matt/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/09/13-19:23:01.536 7f5c Recovering log #4424
+2025/09/13-19:23:01.536 7f5c Reusing old log /home/matt/.config/discord/Local Storage/leveldb/004424.log 
+2025/09/13-19:24:02.187 7f5d Level-0 table #4428: started
+2025/09/13-19:24:02.191 7f5d Level-0 table #4428: 11773 bytes OK
+2025/09/13-19:24:02.192 7f5d Delete type=0 #4424
+2025/09/13-19:24:02.192 7f5d Compacting 4@0 + 2@1 files
+2025/09/13-19:24:02.210 7f5d Generated table #4429@0: 88 keys, 2574441 bytes
+2025/09/13-19:24:02.238 7f5d Generated table #4430@0: 132 keys, 4108179 bytes
+2025/09/13-19:24:02.238 7f5d Compacted 4@0 + 2@1 files => 6682620 bytes
+2025/09/13-19:24:02.239 7f5d compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/09/13-19:24:02.239 7f5d Delete type=2 #4418
+2025/09/13-19:24:02.239 7f5d Delete type=2 #4428
+2025/09/13-19:24:02.239 7f5d Delete type=2 #4420
+2025/09/13-19:24:02.239 7f5d Delete type=2 #4422
+2025/09/13-19:24:02.239 7f5d Delete type=2 #4425
+2025/09/13-19:24:02.239 7f5d Delete type=2 #4417
+2025/09/13-19:27:25.543 7f5d Level-0 table #4432: started
+2025/09/13-19:27:25.562 7f5d Level-0 table #4432: 1622077 bytes OK
+2025/09/13-19:27:25.563 7f5d Delete type=0 #4427
+2025/09/13-19:30:02.181 7f5d Level-0 table #4434: started
+2025/09/13-19:30:02.185 7f5d Level-0 table #4434: 14698 bytes OK
+2025/09/13-19:30:02.188 7f5d Delete type=0 #4431

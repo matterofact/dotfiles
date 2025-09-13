@@ -1,7 +1,0 @@
-[Libinput][1133][16500][Logitech G305]
-PointerAcceleration=0.300
-PointerAccelerationProfile=1
-
-[Mouse]
-X11LibInputXAccelProfileFlat=true
-cursorTheme=Vimix-cursors

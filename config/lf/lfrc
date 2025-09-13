@@ -1,0 +1,18 @@
+# Enable file previews
+set preview true
+set previewer ~/.config/preview
+
+# Make lf draw boxes around UI panels (optional)
+set drawbox true
+
+# Show file modification times
+set infotimefmtnew '2006-01-02 15:04'
+set infotimefmtold '2006-01-02 15:04'
+
+# Optional: mouse support
+set mouse true
+
+# Basic keybindings
+map <enter> open
+map { :updir; up; open;
+map } :updir; down; open;

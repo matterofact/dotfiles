@@ -1,0 +1,20 @@
+#!/bin/sh
+
+f="$1"
+w="$2"
+h="$3"
+x="$4"
+y="$5"
+
+case "$f" in
+	*.tar*|*.tgz) tar tf "$f" ;;
+	*.zip) unzip -l "$f" ;;
+	*.rar) unrar l "$f" ;;
+	*.7z) 7z l "$f" ;;
+	*.pdf) pdftotext "$f" -;;
+	*.bin|*.dtb) xxd -R always "$f" ;;
+	*.png|*.jpeg|*.jpg|*.gif) chafa -f sixels "$f" -s "$w"x"$h" --animate off --polite on -t 1 ;;
+	*.webm|*.mp4|*.wmv|*.mkv|*.w4v) ffmpegthumbnailer -i "$f" -s 0 -c png -o - 2>/dev/null | chafa -f sixels -s "$2x$3" --animate off --polite on -t 1 --bg black ;;
+	*) highlight -O ansi "$f" ;;
+esac
+
