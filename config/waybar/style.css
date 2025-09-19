@@ -1,147 +1,155 @@
-@import "mocha.css";
+/*@import "mocha.css";*/
+@import "gruvbox.css";
 
 @keyframes blink-warning {
-    to {
-        background-color: #bf616a;
-    }
+  to {
+    background-color: #bf616a;
+  }
 }
 
 @keyframes blink-critical {
-    to {
-        color: #2e3440;
-        background-color: #bf616a;
-    }
+  to {
+    color: #2e3440;
+    background-color: #bf616a;
+  }
 }
 
 *#waybar {
-	background-color: shade(@base, 0.9);
-	border-radius: 10px;
+  background-color: shade(@base, 0.9);
+  border-radius: 10px;
 }
 
 * {
-    border: none;
-    border-radius: 10px;
-    font-family: JetBrainsMonoNF-Regular, monospace;
-    font-size: 13px;
-    min-height: 0;
-    box-shadow: none;
-    text-shadow: none;
+  border: none;
+  border-radius: 10px;
+  font-family: JetBrainsMonoNF-Regular, monospace;
+  font-size: 13px;
+  min-height: 0;
+  box-shadow: none;
+  text-shadow: none;
 }
 
 #window {
-    background-color: shade(@base, 0.9);
-    color: @lavender;
-    margin-left: 20px;
-    margin-right: 20px;
-    padding: 0px 20px;
+  background-color: shade(@base, 0.9);
+  color: @text;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 0px 20px;
 }
 
 
 
 #workspaces {
-    margin-right: 1.5px;
-    margin-left: 1.5px;
-    background-color: shade(@base, 0.9);
-    padding: 0px 0px;
+  margin-right: 1.5px;
+  margin-left: 1.5px;
+  background-color: shade(@base, 0.9);
+  padding: 0px 0px;
 }
 
 #workspaces button {
-    padding: 3px 9px 0px 9px;
-    background: transparent;
-    color: @lavender;
-    border-bottom: 3px solid transparent;
-    font-weight: 900
+  padding: 3px 9px 0px 9px;
+  background: transparent;
+  color: @text;
+  border-bottom: 3px solid transparent;
+  font-weight: 900
 }
 
 #workspaces button.focused {
-	color: #d5d8e9;
-	border-radius: 0px;
-	background-color: rgba(94, 130, 172,0.8);
-	padding: 0px 8px;
+  color: @text;
+  border-radius: 0px;
+  background-color: @red;
+  padding: 0px 8px;
 }
 
 #workspaces button:hover {
-    background-color: rgba(96, 100, 128,0.8);
+  background-color: rgba(96, 100, 128, 0.8);
 }
 
 #mode {
-    padding: 0px 8px;
-    background-color: #a3be8c;
-    color: @lavender;
-    font-size: 14px;
-    font-weight: bold;
+  padding: 0px 8px;
+  background-color: #a3be8c;
+  color: @text;
+  font-size: 14px;
+  font-weight: bold;
 }
 
-#clock, #pulseaudio, #tray, #memory, #cpu, #bluetooth, #network, #battery {
-    padding: 0px 8px;
-    margin: 0 5px;
-    background-color: shade(@base, 0.9);
-    color: @lavender;
-    font-size: 14px;
+#clock,
+#pulseaudio,
+#tray,
+#memory,
+#cpu,
+#bluetooth,
+#network,
+#battery {
+  padding: 0px 8px;
+  margin: 0 5px;
+  background-color: shade(@base, 0.9);
+  color: @text;
+  font-size: 14px;
 }
 
 #calendar {
-    background-color: shade(@base, 0.9);
-    color: @lavender;
+  background-color: shade(@base, 0.9);
+  color: @text;
 }
 
 #language {
-    color: #d8dee9;
-    font-weight: bold;
+  color: #d8dee9;
+  font-weight: bold;
 }
 
 
 #pulseaudio {
-	color: @lavender;
-	padding-right: 10px
+  color: @text;
+  padding-right: 10px
 }
 
 #pulseaudio.muted {
-    color: #d08770;
+  color: @red;
 }
 
 #tray {
-	padding-right: 10px;
+  padding-right: 10px;
 }
 
 #cpu {
-    padding-left: 10px;
-    font-size: 13px;
+  padding-left: 10px;
+  font-size: 13px;
 }
 
 #cpu.warning {
-    color: #ebcb8b;
+  color: @yellow;
 }
 
 #cpu.critical {
-    color: #d08770;
+  color: @red;
 }
 
 #memory {
-    padding-left: 10px;
-    font-size: 13px;
+  padding-left: 10px;
+  font-size: 13px;
 }
 
 #memory.warning {
-    color: #ebcb8b;
+  color: @yellow;
 }
 
 #memory.critical {
-    color: #d08770;
+  color: @red;
 }
 
 #battery {
-    animation-timing-function: ease-in-out;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
 }
 
 #battery.warning.discharging {
-    animation-name: blink-warning;
-    animation-duration: 3s;
+  animation-name: blink-warning;
+  animation-duration: 3s;
 }
 
 #battery.critical.discharging {
-    animation-name: blink-critical;
-    animation-duration: 2s;
+  animation-name: blink-critical;
+  animation-duration: 2s;
 }
