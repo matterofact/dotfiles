@@ -15942,3 +15942,45 @@
 [2025-09-19 22:47:36.803] [warn]  The resource https://discord.com/assets/dd24010f3cf7def7.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
 [2025-09-19 22:47:44.079] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 20
 [2025-09-19 22:47:44.098] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2025-09-19 22:47:48.449] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 10
+[2025-09-19 22:47:48.469] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2025-09-19 22:47:57.829] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 20
+[2025-09-19 22:47:57.847] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2025-09-19 22:48:02.199] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 10
+[2025-09-19 22:48:02.217] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2025-09-19 22:48:11.579] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 20
+[2025-09-19 22:48:11.597] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2025-09-19 22:48:15.949] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 10
+[2025-09-19 22:48:15.969] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2025-09-19 22:48:25.329] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 20
+[2025-09-19 22:48:25.348] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2025-09-19 22:48:29.699] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 10
+[2025-09-19 22:48:29.719] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2025-09-19 22:48:39.079] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 20
+[2025-09-19 22:48:39.097] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2025-09-19 22:48:43.449] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 10
+[2025-09-19 22:48:43.468] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2025-09-19 22:48:52.829] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 20
+[2025-09-19 22:48:52.849] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2025-09-19 22:48:57.199] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 10
+[2025-09-19 22:48:57.217] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2025-09-19 22:49:06.579] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 20
+[2025-09-19 22:49:06.598] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2025-09-19 22:49:07.209] [warn]  The resource https://discord.com/assets/189422196a4f8b53.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-09-19 22:49:07.209] [warn]  The resource https://discord.com/assets/ce3b8055f5114434.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-09-19 22:49:07.209] [warn]  The resource https://discord.com/assets/cb2006dbced0e246.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-09-19 22:49:07.209] [warn]  The resource https://discord.com/assets/7a6a566c2e88a35d.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-09-19 22:49:07.209] [warn]  The resource https://discord.com/assets/e52f0cba712e2fb4.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-09-19 22:49:07.209] [warn]  The resource https://discord.com/assets/dd24010f3cf7def7.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-09-19 22:49:10.949] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 10
+[2025-09-19 22:49:10.967] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2025-09-19 22:49:12.696] [warn]  The resource https://discord.com/assets/189422196a4f8b53.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-09-19 22:49:12.697] [warn]  The resource https://discord.com/assets/ce3b8055f5114434.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-09-19 22:49:12.697] [warn]  The resource https://discord.com/assets/cb2006dbced0e246.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-09-19 22:49:12.697] [warn]  The resource https://discord.com/assets/7a6a566c2e88a35d.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-09-19 22:49:12.697] [warn]  The resource https://discord.com/assets/e52f0cba712e2fb4.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-09-19 22:49:12.697] [warn]  The resource https://discord.com/assets/dd24010f3cf7def7.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-09-19 22:49:20.329] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 20
+[2025-09-19 22:49:20.349] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2025-09-19 22:49:24.699] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 10
+[2025-09-19 22:49:24.717] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
