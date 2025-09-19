@@ -72,7 +72,7 @@
     font-weight: bold;
 }
 
-#clock, #pulseaudio, #tray, #memory, #cpu, #network, #battery {
+#clock, #pulseaudio, #tray, #memory, #cpu, #bluetooth, #network, #battery {
     padding: 0px 8px;
     margin: 0 5px;
     background-color: shade(@base, 0.9);

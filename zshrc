@@ -53,7 +53,6 @@ setopt hist_find_no_dups
 # Aliases
 alias ls='ls --color'
 alias vim='nvim'
-alias sway='sway --unsupported-gpu'
 
 # Shell Integrations
 eval "$(fzf --zsh)"
@@ -61,10 +60,12 @@ eval "$(fzf --zsh)"
 # Env vars
 export LDLIBS='-lcs50'
 export LS_COLORS='di=0;35:'
-#export LIBVA_DRIVER_NAME=nvidia
-#export GDM_BACKEND=nvidia-drm
-#export __GLX_VENDOR_LIBRARY_NAME=nvidia
-#export XDG_SESSION_TYPE=wayland
 export WLR_RENDERER=vulkan
 export WLR_NO_HARDWARE_CURSORS=1
 export MOZ_ENABLE_WAYLAND=1
+export TERM=xterm-256color
+
+[ -f "/home/matt/.ghcup/env" ] && . "/home/matt/.ghcup/env" # ghcup-env
+
+# Leave you in the directory navigated to after opening lf
+

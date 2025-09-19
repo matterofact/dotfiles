@@ -14,6 +14,7 @@
 		"network",
 		"cpu",
 		"memory",
+		"bluetooth",
 		"pulseaudio",
 		"clock"
 	],
@@ -108,7 +109,7 @@
             "format-icons": {
             	"default": ["", "", ""],
             	"on-click": "pavucontrol",
-            	"on-click-right": "foot -a pw-top pw-top",
+            	"on-click-right": "kitty -a pw-top pw-top",
             }
 	},
 	"temperature": {
@@ -132,6 +133,7 @@
 		"tooltip-format": "{device_alias}",
 		"tooltip-format-connected": " {device_enumerate}",
 		"tooltip-format-enumerate-connected": "{device_alias}",
-		"on-click": "bluetoothctl toggle"
+		"on-click": "bluetoothctl toggle",
+		"on-click-right": "blueman applet"
 	}
 }

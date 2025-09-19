@@ -1,0 +1,43 @@
+2025/09/19-20:15:52.386 1b34 Reusing MANIFEST /home/matt/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/09/19-20:15:52.408 1b34 Recovering log #4620
+2025/09/19-20:15:52.408 1b34 Reusing old log /home/matt/.config/discord/Local Storage/leveldb/004620.log 
+2025/09/19-20:16:53.129 1b16 Level-0 table #4624: started
+2025/09/19-20:16:53.133 1b16 Level-0 table #4624: 39206 bytes OK
+2025/09/19-20:16:53.137 1b16 Delete type=0 #4620
+2025/09/19-20:36:44.709 1b15 Level-0 table #4626: started
+2025/09/19-20:36:44.728 1b15 Level-0 table #4626: 1747194 bytes OK
+2025/09/19-20:36:44.733 1b15 Delete type=0 #4623
+2025/09/19-20:36:44.734 1b15 Compacting 4@0 + 2@1 files
+2025/09/19-20:36:44.753 1b15 Generated table #4627@0: 88 keys, 2572883 bytes
+2025/09/19-20:36:44.784 1b15 Generated table #4628@0: 132 keys, 4248966 bytes
+2025/09/19-20:36:44.784 1b15 Compacted 4@0 + 2@1 files => 6821849 bytes
+2025/09/19-20:36:44.787 1b15 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/09/19-20:36:44.787 1b15 Delete type=2 #4624
+2025/09/19-20:36:44.787 1b15 Delete type=2 #4621
+2025/09/19-20:36:44.787 1b15 Delete type=2 #4617
+2025/09/19-20:36:44.787 1b15 Delete type=2 #4616
+2025/09/19-20:36:44.787 1b15 Delete type=2 #4626
+2025/09/19-20:36:44.787 1b15 Delete type=2 #4619
+2025/09/19-21:20:01.761 1b15 Level-0 table #4630: started
+2025/09/19-21:20:01.765 1b15 Level-0 table #4630: 34116 bytes OK
+2025/09/19-21:20:01.767 1b15 Delete type=0 #4625
+2025/09/19-21:49:17.533 1b16 Level-0 table #4632: started
+2025/09/19-21:49:17.537 1b16 Level-0 table #4632: 20291 bytes OK
+2025/09/19-21:49:17.540 1b16 Delete type=0 #4629
+2025/09/19-22:17:17.533 1b16 Level-0 table #4634: started
+2025/09/19-22:17:17.536 1b16 Level-0 table #4634: 20322 bytes OK
+2025/09/19-22:17:17.539 1b16 Delete type=0 #4631
+2025/09/19-22:34:17.533 1b16 Level-0 table #4636: started
+2025/09/19-22:34:17.537 1b16 Level-0 table #4636: 31196 bytes OK
+2025/09/19-22:34:17.539 1b16 Delete type=0 #4633
+2025/09/19-22:34:17.539 1b16 Compacting 4@0 + 2@1 files
+2025/09/19-22:34:17.555 1b16 Generated table #4637@0: 88 keys, 2572885 bytes
+2025/09/19-22:34:17.587 1b16 Generated table #4638@0: 132 keys, 4249741 bytes
+2025/09/19-22:34:17.587 1b16 Compacted 4@0 + 2@1 files => 6822626 bytes
+2025/09/19-22:34:17.590 1b16 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/09/19-22:34:17.591 1b16 Delete type=2 #4634
+2025/09/19-22:34:17.591 1b16 Delete type=2 #4636
+2025/09/19-22:34:17.591 1b16 Delete type=2 #4630
+2025/09/19-22:34:17.591 1b16 Delete type=2 #4628
+2025/09/19-22:34:17.591 1b16 Delete type=2 #4627
+2025/09/19-22:34:17.591 1b16 Delete type=2 #4632

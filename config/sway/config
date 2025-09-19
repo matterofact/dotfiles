@@ -9,6 +9,7 @@
 # layout, use the i3-config-wizard
 #
 
+# Catppuccin
 set $rosewater #f5e0dc
 set $flamingo #f2cdcd
 set $pink #f5c2e7
@@ -23,19 +24,26 @@ set $sky #89dceb
 set $sapphire #74c7ec
 set $blue #89b4fa
 set $lavender #b4befe
-set $text #cdd6f4
+set $catpuccin-text #cdd6f4
 set $subtext1 #bac2de
 set $subtext0 #a6adc8
 set $overlay2 #9399b2
 set $overlay1 #7f849c
-set $overlay0 #6c7086
+set $catpuccin-overlay0 #6c7086
 set $surface2 #585b70
 set $surface1 #45475a
 set $surface0 #313244
-set $base #1e1e2e
+set $catpuccin-base #1e1e2e
 set $mantle #181825
 set $crust #11111b
 
+
+# Gruvbox
+
+set $gruvbox-base #282828
+set $gruvbox-text #ebdbb2
+set $aqua #8ec07c
+set $gruvbox-overlay0 #928374
 
 # Compositor
 
@@ -58,18 +66,33 @@ output DP-1 mode 2560x1440@143.973Hz
 set $mod Mod4
 
 # Wallpaper
-output '*' bg ~/Pictures/Wallpapers/evening-sky.png fill
+# catppuccin
+# output '*' bg ~/Pictures/Wallpapers/evening-sky.png fill
+
+# grubox
+output '*' bg ~/Pictures/Wallpapers/gruv8.png fill
+
 
 
 # Focus border colour:
 
-# target                 title     bg    text   indicator  border
-client.focused           $lavender $base $text  $rosewater $lavender
-client.focused_inactive  $overlay0 $base $text  $rosewater $overlay0
-client.unfocused         $overlay0 $base $text  $rosewater $overlay0
-client.urgent            $peach    $base $peach $overlay0  $peach
-client.placeholder       $overlay0 $base $text  $overlay0  $overlay0
-client.background        $base
+# Catppucin
+# target                  title               bg              text             indicator            border
+#client.focused           $lavender           $catpuccin-base $catpuccin-text  $rosewater           $lavender
+#client.focused_inactive  $catppucin-overlay0 $catpuccin-base $catpuccin-text  $rosewater           $catpuccin-overlay0
+#client.unfocused         $catpuccin-overlay0 $catpuccin-base $catpuccin-text  $rosewater 	    $catpuccin-overlay0
+#client.urgent            $peach              $catpuccin-base $peach           $catpuccin-overlay0  $peach
+#client.placeholder       $catpuccin-overlay0 $catpuccin-base $catpuccin-text  $catppucin-overlay0  $catppucin-overlay0
+#client.background        $catpuccin-base
+
+# Gruvbox
+
+client.focused           $aqua               $gruvbox-base $gruvbox-text  $aqua                    $aqua
+client.focused_inactive  $gruvbox-overlay0   $gruvbox-base $gruvbox-text  $aqua                    $gruvbox-overlay0
+client.unfocused         $gruvbox-overlay0   $gruvbox-base $gruvbox-text  $aqua 	           $gruvbox-overlay0
+client.urgent            $peach              $gruvbox-base $peach         $gruvbox-overlay0        $peach
+client.placeholder       $gruvbox-overlay0   $gruvbox-base $gruvbox-text  $gruvbox-overlay0        $gruvbox-overlay0
+client.background        $gruvbox-base
 
 # Gaps
 
@@ -91,22 +114,42 @@ exec_always autotiling
 
 # Start XDG autostart .desktop files using dex. See also
 # https://wiki.archlinux.org/index.php/XDG_Autostart
-exec  --autostart --environment sway
+exec --autostart --environment sway
 
 # Notifications - swaync
-
 exec_always dunst
 #exec swaync
-# Keybinding to Lock Screen
-bindsym $mod+Shift+Return exec swaylock -c 000000  
+
 
 # auto lock the screen
-set $lock swaylock -c 000000
+set $lock 'swaylock \
+	--screenshots \
+	--clock \
+	--text-color b4befe \
+	--timestr %H:%M \
+	--datestr %d/%m/%Y \
+	--indicator \
+	--indicator-radius 100 \
+	--indicator-thickness 7 \
+	--effect-blur 7x5 \
+	--effect-vignette 0.5:0.5 \
+	--ring-color b4befe \
+	--key-hl-color 74c7ec \
+	--line-color 00000000 \
+	--inside-color 00000088 \
+	--separator-color 00000000 \'
+
 exec swayidle -w \
-	timeout 30 $lock \
-	timeout 300 'swaymsg "output * dpms off"' \
-	resume 'swaymsg "output * dpms on"' \
+	timeout 300 $lock \
+	timeout 305 'swaymsg "output * dpms off"' \
+		resume 'swaymsg "output * dpms on"' \
 	before-sleep $lock
+
+# Keybind to lock the screen
+bindsym $mod+Shift+Return exec $lock
+
+# Keybind for screenshot tool
+bindsym $mod+Shift+S exec swayshot region
 
 # NetworkManager is the most popular way to manage wireless networks on Linux,
 # and nm-applet is a desktop environment-independent system tray GUI for it.
@@ -118,8 +161,8 @@ exec --no-startup-id nm-applet
 bindsym XF86AudioMute exec pactl set-sink-mute @DEFAULT_SINK@ toggle
 bindsym XF86AudioMicMute exec pactl set-source-mute @DEFAULT_SOURCE@ toggle
 # Use pactl to adjust volume in PulseAudio.
-bindsym XF86AudioRaiseVolume exec --no-startup-id ~/dotfiles/config/dunst/volume_brightness.sh volume_up && pactl set-sink-volume @DEFAULT_SINK@ +2% 
-bindsym XF86AudioLowerVolume exec --no-startup-id ~/dotfiles/config/dunst/volume_brightness.sh volume_down && pactl set-sink-volume @DEFAULT_SINK@ -2%
+bindsym XF86AudioRaiseVolume exec --no-startup-id ~/dotfiles/config/dunst/volume_brightness.sh volume_up && .config/dunst/notify-sound.sh 
+bindsym XF86AudioLowerVolume exec --no-startup-id ~/dotfiles/config/dunst/volume_brightness.sh volume_down && .config/dunst/notify-sound.sh
 #pactl set-sink-volume @DEFAULT_SINK@ -2% && $refresh_bumblebee-status
 #bindsym XF86AudioMute exec --no-startup-id #/dotfiles/config/dunst/volume_brightness.sh volume_mute && $refresh_bumblebee-status
 #pactl set-sink-mute @DEFAULT_SINK@ toggle && $refresh_bumblebee-status
@@ -258,10 +301,9 @@ bindsym $mod+Shift+0 move container to workspace number $ws10
 bindsym $mod+Shift+c reload
 # restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
 bindsym $mod+Shift+r restart
-# exit i3 (logs you out of your X session)
-bindsym $mod+Shift+e exec --no-startup-id "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
+# exit sway (logs you out of your X session)
+bindsym $mod+Shift+e exec swaynag -t warning -m 'Exit sway?' -b 'Yes, exit sway' 'swaymsg exit'
 
-# resize window (you can also use the mouse for that)
 mode "resize" {
         # These bindings trigger as soon as you enter the resize mode
 
@@ -333,4 +375,5 @@ bar {
 # Please remove the following exec --no-startup-config line:
 #######################################################################
 #exec --no-startup-id i3-config-wizard
+
 
